@@ -191,46 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "48ba24a5a8e4812e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3a6686c38d28f5f9",
-        "type": "window",
-        "children": [
-          {
-            "id": "205eef5efd201a15",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "023cc4e0e3f6fa9a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/sync",
-                    "title": "Obsidian Sync",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian Sync"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "023cc4e0e3f6fa9a",
+  "active": "6a814e429a84e8c8",
   "lastOpenFiles": [
     "리눅스/01. 파일과 디렉터리/2. 디렉터리 계층 구조.md",
     "이미지 등",
