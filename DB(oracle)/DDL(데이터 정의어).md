@@ -1,0 +1,4 @@
+CREATE 생성
+ALTER 구조 수정
+DROP 삭제
+TRUNCATE
