@@ -1,5 +1,0 @@
-CELECT(데이터 조작어)
-INSERT(데이터 )
-UPDATE
-DELETE
-MERGE
