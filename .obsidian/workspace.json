@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "help(도움말).md",
+                "file": "GIt/help(도움말).md",
                 "mode": "source",
                 "source": false
               },
@@ -191,10 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a814e429a84e8c8",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
     "GIt/파일 상태.md",
-    "help(도움말).md",
+    "GIt/help(도움말).md",
     "GIt/작업 영역.md",
     "GIt/커밋.md",
     "GIt/Git.md",
