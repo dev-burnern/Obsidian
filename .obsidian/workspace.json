@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIt/파일 상태.md",
+                "file": "help(도움말).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "파일 상태"
+              "title": "help(도움말)"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "6a814e429a84e8c8",
   "lastOpenFiles": [
-    "GIt/작업 영역.md",
     "GIt/파일 상태.md",
+    "help(도움말).md",
+    "GIt/작업 영역.md",
     "GIt/커밋.md",
     "GIt/Git.md",
     "GIt",
