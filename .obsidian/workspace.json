@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIt/help(도움말).md",
+                "file": "GIt/무제/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "help(도움말)"
+              "title": "무제"
             }
           }
         ]
@@ -193,11 +193,13 @@
   },
   "active": "60a81592ec131b22",
   "lastOpenFiles": [
-    "GIt/파일 상태.md",
-    "GIt/help(도움말).md",
-    "GIt/작업 영역.md",
-    "GIt/커밋.md",
-    "GIt/Git.md",
+    "GIt/무제/help(도움말).md",
+    "GIt/무제/무제.md",
+    "GIt/무제",
+    "GIt/무제/파일 상태.md",
+    "GIt/무제/작업 영역.md",
+    "GIt/무제/커밋.md",
+    "GIt/무제/Git.md",
     "GIt",
     "DB(oracle)/003. DCL(데이터 제어어).md",
     "DB(oracle)/002. DDL(데이터 정의어).md",
