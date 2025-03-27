@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIt/이론 및 기초/작업 영역.md",
+                "file": "GIt/GitHub/원격 저장소로 이동하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "작업 영역"
+              "title": "원격 저장소로 이동하기"
             }
           }
         ]
@@ -193,14 +193,15 @@
   },
   "active": "6a814e429a84e8c8",
   "lastOpenFiles": [
+    "GIt/GitHub/레포지토리.md",
+    "GIt/GitHub/원격 저장소로 이동하기.md",
+    "GIt/이론 및 기초/작업 영역.md",
     "GIt/이론 및 기초/ㄱ.md",
     "GIt/이론 및 기초/파일 상태.md",
-    "GIt/GitHub/레포지토리.md",
     "GIt/이론 및 기초/0.해당 폴더 명령어 정리.md",
     "GIt/GitHub",
     "GIt/이론 및 기초/help(도움말).md",
     "GIt/이론 및 기초",
-    "GIt/이론 및 기초/작업 영역.md",
     "GIt/이론 및 기초/커밋.md",
     "GIt/이론 및 기초/Git.md",
     "GIt",
