@@ -24,4 +24,5 @@ LLM
 ![[Pasted image 20250329133605.png]]https://github.com/matdaaiga-kr/semantic-kernel-workshop/tree/main - 시맨틱 커널 
 
 ### 시맨틱 커널은?
-오스트레이션 오퍼레이셔
+오케스트레이션 오픈웨어
+
