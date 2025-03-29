@@ -25,12 +25,14 @@
             "id": "6d45cd366ae4a388",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md"
+                "file": "2025 global ai bootcamp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-29 13.33.21.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025 global ai bootcamp"
             }
           }
         ],
@@ -206,8 +208,9 @@
   },
   "active": "6d45cd366ae4a388",
   "lastOpenFiles": [
-    "2025 global ai bootcamp.md",
+    "이미지 등/Pasted image 20250329133605.png",
     "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md",
+    "2025 global ai bootcamp.md",
     "Excalidraw",
     "무제 1.canvas",
     "무제.canvas",
