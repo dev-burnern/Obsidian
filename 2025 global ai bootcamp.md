@@ -24,4 +24,8 @@ LLM
 ![[Pasted image 20250329133605.png]]https://github.com/matdaaiga-kr/semantic-kernel-workshop/tree/main - 시맨틱 커널 
 
 
-do
+dotnet --list-sdks
+
+docker --version
+
+git remote -v
