@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025 global ai bootcamp"
             }
+          },
+          {
+            "id": "6d45cd366ae4a388",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-29 13.33.21.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +204,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a814e429a84e8c8",
+  "active": "6d45cd366ae4a388",
   "lastOpenFiles": [
+    "2025 global ai bootcamp.md",
+    "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md",
+    "Excalidraw",
     "무제 1.canvas",
     "무제.canvas",
-    "2025 global ai bootcamp.md",
     "대학교 수업/리눅스.md",
     "무제",
     "리눅스/01. 파일과 디렉터리/4. 디렉터리 명령.md",
