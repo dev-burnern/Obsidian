@@ -21,4 +21,7 @@ LLM
 - 배포절차 단순화
 	- 빠른 배포와 비용절감이 가능
 
-![[Pasted image 20250329133605.png]]
+![[Pasted image 20250329133605.png]]https://github.com/matdaaiga-kr/semantic-kernel-workshop/tree/main - 시맨틱 커널 
+
+
+do
