@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
+                "file": "2. 프로그래밍 언어/파이썬/문자열 출력.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "None"
+              "title": "문자열 출력"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "6d45cd366ae4a388",
   "lastOpenFiles": [
-    "4. 전체 용어 정리/빈 데이터.md",
     "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
+    "4. 전체 용어 정리/빈 데이터.md",
     "9999.이미지 등/Pasted image 20250329133605.png",
     "9999.이미지 등/Pasted image 20250321155855.png",
     "9999.이미지 등/Pasted image 20250321141758.png",
