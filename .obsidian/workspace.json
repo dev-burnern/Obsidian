@@ -25,12 +25,14 @@
             "id": "6d45cd366ae4a388",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "9999.이미지 등/Pasted image 20250329133605.png"
+                "file": "4. 전체 용어 정리/빈 데이터.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250329133605"
+              "icon": "lucide-file",
+              "title": "빈 데이터"
             }
           }
         ],
@@ -206,6 +208,7 @@
   },
   "active": "60a81592ec131b22",
   "lastOpenFiles": [
+    "9999.이미지 등/Pasted image 20250329133605.png",
     "9999.이미지 등/Pasted image 20250321155855.png",
     "9999.이미지 등/Pasted image 20250321141758.png",
     "9999.이미지 등/Pasted image 20250330194500.png",
@@ -221,7 +224,6 @@
     "2. 프로그래밍 언어/파이썬",
     "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md",
     "2025 global ai bootcamp.md",
-    "9999.이미지 등/Pasted image 20250329133605.png",
     "Excalidraw",
     "무제 1.canvas",
     "무제.canvas",
