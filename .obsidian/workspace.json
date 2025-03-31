@@ -206,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d45cd366ae4a388",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
+    "2. 프로그래밍 언어/자바/이론",
     "4. 전체 용어 정리/객체 지향.md",
     "2. 프로그래밍 언어/자바/자바.md",
     "3. 개발 도구/GIt/이론 및 기초/작업 영역.md",
@@ -251,7 +252,6 @@
     "3. 개발 도구/GIt/이론 및 기초/커밋.md",
     "3. 개발 도구/GIt/이론 및 기초/Git.md",
     "2. 프로그래밍 언어/DB(oracle)/003. DCL(데이터 제어어).md",
-    "2. 프로그래밍 언어/DB(oracle)/002. DDL(데이터 정의어).md",
-    "2. 프로그래밍 언어/DB(oracle)/001. DML(데이터 조작어).md"
+    "2. 프로그래밍 언어/DB(oracle)/002. DDL(데이터 정의어).md"
   ]
 }
