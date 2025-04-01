@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 개발 도구/GIt & GitHub/협업/3..md",
+                "file": "3. 개발 도구/GIt & GitHub/협업/2. Pull Request란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3."
+              "title": "2. Pull Request란"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "6d45cd366ae4a388",
   "lastOpenFiles": [
-    "3. 개발 도구/GIt & GitHub/협업/2. Pull Request란.md",
     "3. 개발 도구/GIt & GitHub/협업/3..md",
+    "3. 개발 도구/GIt & GitHub/협업/2. Pull Request란.md",
     "3. 개발 도구/GIt & GitHub/협업/1. GitHub 훑어보기.md",
     "9999.이미지 등/Pasted image 20250401210730.png",
     "3. 개발 도구/GIt & GitHub/이론 및 기초/00. 핵심 개념 정리.md",
