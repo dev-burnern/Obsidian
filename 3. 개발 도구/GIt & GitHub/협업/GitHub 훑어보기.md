@@ -1,29 +1,3 @@
-# 03. GitHub 훑어보기
-
-1일 연속 공부중
-
-오늘의 페이스 2/15
-
-856명이 공부중
-
-1일 연속 공부중
-
-오늘의 페이스 2/15
-
-856명이 공부중
-
-1일 연속 공부중
-
-오늘의 페이스 2/15
-
-856명이 공부중
-
-![rhombus](https://codeit-static.codeit.com/_main/production/_next/static/media/guru.ec798937.png?w=256&q=75&t=cover)![guru](https://codeit-static.codeit.com/_main/production/_next/static/media/guru-label.906890d0.png?w=128&q=75&t=cover)AIChat
-
-![profile](https://ssl.pstatic.net/static/pwe/address/img_profile.png)
-
-GitHub는 개발자들에게 널리 알려진 원격 저장소 서비스입니다. 이전 토픽에서 이미 GitHub의 원격 저장소로서의 역할을 다룬 바 있죠. 이번 레슨에서는 GitHub의 다양한 기능들을 살펴보고자 합니다. GitHub는 단순히 코드를 저장하는 공간을 넘어, 개발자들의 소통과 협업을 돕는 플랫폼으로 성장했습니다. 이 레슨에서는 GitHub의 협업 기능들에 초점을 맞추어 자주 사용하는 기능 위주로 코드 공유 및 소통 도구로써의 GitHub를 소개합니다.
-
 # 팀을 만들기 위한 기능: Organization
 
 GitHub의 Organization 기능은 팀원들을 한데 모아 프로젝트와 저장소를 효율적으로 관리하는 팀 협업 도구입니다. 이 기능은 주로 회사나 대규모 조직에서 권한 관리와 보안을 향상하기 위해 사용됩니다.
@@ -65,9 +39,3 @@ Code Reviews는 GitHub에서 코드 리뷰를 위한 기능을 제공합니다. 
 GitHub는 단순히 원격 저장소의 역할을 넘어 개발자들이 소통하고 협업하는 중추적인 플랫폼으로 발전했습니다. 이러한 다양한 기능들을 활용하면, 여러분들은 개발 커뮤니티에 더욱 적극적으로 참여하고 성장할 수 있습니다.
 
 이 토픽은 여러분들이 다양한 프로젝트에 참여하고, 협업을 통해 전문적인 성장을 이루는데 도움을 줄 수 있도록 구성하였는데요. 특히, 개발 과정과 협업에서 중요한 역할을 하고 실제 작업 환경에서도 자주 사용하는 Pull Request와 Code Review에 대해 깊이 다루었습니다. 이제 본격적으로 시작해 볼게요!
-
-이번 레슨은 어땠나요?
-
-관련 질문
-
-궁
