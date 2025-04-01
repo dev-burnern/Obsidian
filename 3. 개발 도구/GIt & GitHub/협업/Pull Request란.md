@@ -103,5 +103,5 @@ Closed 상태의 PR은 거부되었거나, 더 이상 유효하지 않은 PR을 
 Closed와 Merged는 결국 Closed 상태이기 때문에 Closed에서 모두 확인할 수 있습니다.
 
 ![vqdfb4usc-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=vqdfb4usc-image.png&name=vqdfb4usc-image.png)
-# 정리
+# 앞으로의 협업 과정
 `git pull` → 브랜치 생성 (`git checkout -b`) → 변경 사항 커밋 (`git add` & `git commit`) → `git push` → PR 생성
