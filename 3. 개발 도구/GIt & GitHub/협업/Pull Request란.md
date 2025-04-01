@@ -81,6 +81,27 @@ PR을 통해 문서화하는 일은 수고가 들어가는 일이지만, 그만�
         ![d4t5rhs9e-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=d4t5rhs9e-image.png&name=d4t5rhs9e-image.png)
 
 # Pull Request의 상태
+PR은 크게 3가지 상태를 가질 수 있습니다.
+## **Open**
 
+Open 상태의 PR은 아직 검토가 완료되지 않았거나, 추가적인 작업이 필요한 상태를 말합니다. 이 상태에서는 더 많은 커밋을 추가하거나, 토론을 진행하며 수정을 요청할 수 있습니다. 해당 상태의 PR은 아래의 녹색 아이콘으로 표시됩니다.
 
-# 정리하기
+![c5occ3d97-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=c5occ3d97-image.png&name=c5occ3d97-image.png)
+
+## **Merged**
+
+Merged 상태의 PR은 소스 코드의 기본 브랜치로 병합된 상태를 말합니다. Pull Request 화면에서 Merge 버튼을 누르게 되면 해당 상태로 변경되게 됩니다. 이는 해당 PR의 변경 사항이 승인되었고, 코드에 통합되었다는 것을 의미합니다. PR이 병합된 후에는 Closed 상태로 표시되며, 이후 추가적인 변경이나 커밋을 추가할 수 없습니다. Merged 상태의 PR은 아래와 같은 아이콘으로 표시됩니다.
+
+![](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=bjpj4g2lh-image.png&name=bjpj4g2lh-image.png)
+
+## **Closed**
+
+Closed 상태의 PR은 거부되었거나, 더 이상 유효하지 않은 PR을 말합니다. 이 PR은 병합되지 않았지만 더 이상 필요하지 않거나 다른 이유로 인해 종료된 상태입니다. UI에서 Closed 버튼을 눌렀을 경우 PR은 Closed 상태가 됩니다. Closed 상태로 전환된 후에도 브랜치가 존재한다면 다시 Open 상태로 되돌릴 수 있습니다. Merged 상태도 Closed 상태로 취급하기 때문에 Closed 탭에는 Merged와 Closed 상태의 모든 PR을 확인할 수 있습니다. 해당 상태의 PR은 아래와 같은 아이콘으로 표시됩니다.
+
+![](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=wuxrpwzjx-image.png&name=wuxrpwzjx-image.png)
+
+Closed와 Merged는 결국 Closed 상태이기 때문에 Closed에서 모두 확인할 수 있습니다.
+
+![vqdfb4usc-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=vqdfb4usc-image.png&name=vqdfb4usc-image.png)
+# 정리
+`git pull` → 브랜치 생성 (`git checkout -b`) → 변경 사항 커밋 (`git add` & `git commit`) → `git push` → PR 생성
