@@ -22,6 +22,65 @@ Pull Request란, 다른 GitHub 사용자들에게 자신의 작업한 내용을 
 PR을 통해 문서화하는 일은 수고가 들어가는 일이지만, 그만한 가치가 있는 일입니다. PR을 통해 프로젝트의 참여하는 개개인이 절약하는 시간을 모두 합쳐 본다면 상당히 큰 부분일 것이기 때문이죠.
 
 # Pull Request를 직접 만들기
-
+1. 작업할 프로젝트 생성하기
+    
+    - 먼저 예습을 진행할 프로젝트가 필요하겠죠? GitHub로 들어가 repository를 하나 만들어 보도록 하겠습니다. GitHub 우측 상단의 + 버튼을 통해 새로운 repository를 생성할 수 있습니다. 다양한 옵션들이 있지만 오늘의 예제에서는 중요하지 않기 때문에 `README.md` 파일만 체크를 하고 생성해 보도록 합시다. 이 파일을 체크하면 `README.md`가 자동으로 생성됩니다.
+        
+        ![z2dvg042i-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=z2dvg042i-image.png&name=z2dvg042i-image.png)
+        
+2. 프로젝트 clone하기
+    
+    `git clone https://github.com/<username>/<repository-name>.git`
+    
+    - 아래처럼 GitHub repository에서 녹색 버튼을 누르면 clone할 수 있는 주소가 나옵니다.
+        
+        ![p22rsp7c0-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=p22rsp7c0-image.png&name=p22rsp7c0-image.png)
+        
+    
+    `cd my-test-repository`
+    
+    편의상 앞으로는 repository로의 이동은 생략하겠습니다.
+    
+3. 새로운 브랜치 생성하기
+    
+    - 자 이제 `checkout` 명령어를 사용해 새로운 브랜치를 만들어보죠
+        
+        `git checkout -b my-first-branch`
+        
+4. 코드 변경하기
+    
+    - 간단하게 `README.md`를 수정해 봅니다.
+        
+        `md`는 마크다운(markdown)을 의미하는 확장자(extension)입니다. 일반적인 텍스트 편집기 (메모장, VS Code 등)로 켜서 아래와 같이 수정 후 저장할 수 있습니다.
+        
+        `# my-test-repository  이건 테스트입니다.`
+        
+    - 변경 사항이 발생했으니 커밋을 해야겠죠?
+        
+        `git add -A git commit -m "this is my first branch commit"`
+        
+5. 변경 사항 푸시하기
+    
+    - 변경 사항을 푸시해 봅시다!
+        
+        `git push origin`
+        
+    - 그럼 다음과 같은 출력 결과가 보일 것입니다.
+        
+        `Enumerating objects: 5, done. Counting objects: 100% (5/5), done. Writing objects: 100% (3/3), 305 bytes | 305.00 KiB/s, done. Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 remote:  remote: Create a pull request for 'my-first-branch' on GitHub by visiting: remote:      https://github.com/choiking10/my-test-repository/pull/new/my-first-branch remote:  To github.com:choiking10/my-test-repository.git  * [new branch]      my-first-branch -> my-first-branch`
+        
+    - 해당 출력 결과에는 `https://github.com/...` 로 시작하는 주소가 포함되어 있습니다. 이 주소를 클릭해 볼까요?
+        
+6. PR 생성하기
+    - 여러분들의 첫 번째 PR 화면에 당도했습니다.
+        
+        ![uaen77u3l-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=uaen77u3l-image.png&name=uaen77u3l-image.png)
+        
+    - 여기서 Create pull request를 클릭한다면 PR이 생성됩니다. 조금 심심하니 제목과 내용에 원하는 문구들을 추가하고 Create pull request를 눌러주세요.
+        
+        ![d4t5rhs9e-image.png](https://bakey-api.codeit.kr/api/files/resource?root=static&seqId=6646&version=&directory=d4t5rhs9e-image.png&name=d4t5rhs9e-image.png)
 
 # Pull Request의 상태
+
+
+# 정리하기
