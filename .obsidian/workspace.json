@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로그래밍 언어/파이썬/문자열 출력.md",
+                "file": "3. 개발 도구/GIt & GitHub/협업/5. PR 충돌 해결 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "문자열 출력"
+              "title": "5. PR 충돌 해결 방법"
             }
           }
         ],
@@ -208,10 +208,10 @@
   },
   "active": "6d45cd366ae4a388",
   "lastOpenFiles": [
+    "2. 프로그래밍 언어/파이썬/문자열 출력.md",
     "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
     "2. 프로그래밍 언어/파이썬/용어 정리/슬라이싱.md",
     "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
-    "2. 프로그래밍 언어/파이썬/문자열 출력.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래서 선언.md",
     "2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
     "3. 개발 도구/GIt & GitHub/GitHub/레포지토리.md",
