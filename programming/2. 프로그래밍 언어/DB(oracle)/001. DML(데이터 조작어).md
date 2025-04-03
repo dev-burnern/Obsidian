@@ -1,0 +1,5 @@
+CELECT(데이터 조회)
+INSERT(데이터 입력)
+UPDATE(기존 데이터 수정)
+DELETE(기존 데이터 삭제)
+MERGE(INSERT + UPDATE)

@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "4eb9d931eb43da46",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68db12262bb324a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e503518807b2241f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래서 선언.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 클래서 선언"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cf0400a95257131",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb1c913257a669ef",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "da1e478e65208da0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "c2ecce135aec9d18",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "3408d530695d7dc1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6d657099e8208545",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b9ea18df43b41d6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "programming/2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래서 선언.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "db46f3b308bf3055",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "2383ebec921dd2b2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      },
+      {
+        "id": "418777846c07ab78",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "b706c1f8dff30fb2",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3b9ea18df43b41d6",
+  "lastOpenFiles": [
+    "3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
+    "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
+    "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
+    "3. 개발 도구/GIt & GitHub/협업/9.3. 자동으로 스타일 맞추기 Linting.md",
+    "/3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
+    "/3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
+    "/3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
+    "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
+    "/3. 개발 도구/GIt & GitHub/협업/9.3. 자동으로 스타일 맞추기 Linting.md",
+    "3. 개발 도구",
+    "/2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
+    "/2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
+    "2. 프로그래밍 언어/파이썬",
+    "2. 프로그래밍 언어",
+    "/3. 개발 도구/GIt & GitHub/협업",
+    "/3. 개발 도구/GIt & GitHub",
+    "3. 개발 도구/GIt & GitHub/협업",
+    "3. 개발 도구/GIt & GitHub",
+    "/3. 개발 도구",
+    "/2. 프로그래밍 언어/파이썬/용어 정리",
+    "2. 프로그래밍 언어/파이썬/용어 정리"
+  ]
+}
