@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "6. 메인 메서드 생성"
             }
+          },
+          {
+            "id": "fbbfa9d1bcae5020",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-03 15.22.13.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,14 +204,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a814e429a84e8c8",
+  "active": "fbbfa9d1bcae5020",
   "lastOpenFiles": [
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
+    "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md",
     "3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3.1. 클래스 이름 규칙.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/4. 메서드 선언.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/5. 명령 추가.md",
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/2. 프로젝트 생성.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
     "2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
