@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "7.1 new 연산자"
             }
+          },
+          {
+            "id": "b4cfe4cf5870f426",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-03 16.12.23.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,12 +232,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20adeafe4974a0a6",
+  "active": "b4cfe4cf5870f426",
   "lastOpenFiles": [
+    "9999.이미지 등/Pasted Image 20250403161231_071.png",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+    "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7. 인스턴스화.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/5. 명령 추가.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md",
     "Excalidraw/Drawing 2025-04-03 15.55.40.excalidraw.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
@@ -259,8 +273,6 @@
     "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
     "3. 개발 도구/GIt & GitHub/협업/8. PR 설정 및 편의 기능.md",
     "3. 개발 도구/GIt & GitHub/협업/7. 좋은 PR.md",
-    "3. 개발 도구/GIt & GitHub/협업/6. PR 충돌 최소화.md",
-    "3. 개발 도구/GIt & GitHub/협업/5. PR 충돌 해결 방법.md",
     "3. 개발 도구/GIt & GitHub/협업",
     "3. 개발 도구/GIt & GitHub/GitHub",
     "3. 개발 도구/GIt & GitHub/이론 및 기초",
