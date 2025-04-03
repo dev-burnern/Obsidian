@@ -25,12 +25,14 @@
             "id": "fbbfa9d1bcae5020",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md"
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-03 15.22.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "3. 클래스 선언"
             }
           }
         ],
@@ -206,14 +208,15 @@
   },
   "active": "fbbfa9d1bcae5020",
   "lastOpenFiles": [
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
-    "9999.이미지 등/Pasted image 20250403152609.png",
-    "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md",
-    "3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3.1. 클래스 이름 규칙.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/4. 메서드 선언.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/5. 명령 추가.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
+    "9999.이미지 등/Pasted image 20250403152639.png",
+    "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md",
+    "9999.이미지 등/Pasted image 20250403152609.png",
+    "3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/2. 프로젝트 생성.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
     "2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
@@ -231,7 +234,6 @@
     "9999.이미지 등/Pasted image 20250330194500.png",
     "9999.이미지 등/Pasted image 20250329133605.png",
     "9999.이미지 등/Pasted image 20250321155855.png",
-    "9999.이미지 등/Pasted image 20250321141758.png",
     "9999.이미지 등",
     "3. 개발 도구/GIt & GitHub/협업/무제.md",
     "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
