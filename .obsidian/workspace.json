@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포매팅"
+              "title": "6. 메인 메서드 생성"
+            }
+          },
+          {
+            "id": "fbbfa9d1bcae5020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7. 인스턴스화.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. 인스턴스화"
+            }
+          },
+          {
+            "id": "20adeafe4974a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 new 연산자"
+            }
+          },
+          {
+            "id": "b4cfe4cf5870f426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 new 연산자"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5
   },
   "right": {
     "id": "668bcd1be623ce66",
@@ -191,53 +234,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a814e429a84e8c8",
+  "active": "b4cfe4cf5870f426",
   "lastOpenFiles": [
-    "2. 프로그래밍 언어/파이썬/문자열 출력.md",
-    "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
-    "3. 개발 도구/GIt & GitHub/협업/9.3. 자동으로 스타일 맞추기 Linting.md",
-    "3. 개발 도구/GIt & GitHub/협업/7. 좋은 PR.md",
-    "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
+    "9999.이미지 등/Pasted image 20250403161750.png",
+    "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
+    "9999.이미지 등/Pasted Image 20250403161251_856.png",
+    "9999.이미지 등/Pasted Image 20250403161231_071.png",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7. 인스턴스화.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/5. 명령 추가.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
+    "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-03 15.55.40.excalidraw.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/6.1. 메인 메서드 선언.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
-    "2. 프로그래밍 언어/자바/01. 자바와 객체 지향 프로그래밍 알아보기/000. 용어 정리.md",
-    "2025 global ai bootcamp.md",
-    "2. 프로그래밍 언어/자바/02. 개발 환경 구축/0. 용어 정리.md",
-    "2. 프로그래밍 언어/자바/00. 용어 정리/객체.md",
-    "4. 전체 용어 정리/객체 지향.md",
-    "2. 프로그래밍 언어/자바/00. 용어 정리/객체 지향 프로그래밍(OOP).md",
-    "2. 프로그래밍 언어/자바/00. 용어 정리/객체 지향.md",
-    "2. 프로그래밍 언어/자바/02. 개발 환경 구축/1. 인텔리제이를 쓰는 이유.md",
-    "2. 프로그래밍 언어/자바/00. 용어 정리",
+    "메인 메서드.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/3.1. 클래스 이름 규칙.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/4. 메서드 선언.md",
+    "9999.이미지 등/Pasted image 20250403152639.png",
+    "9999.이미지 등/Pasted image 20250403152609.png",
     "3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
-    "3. 개발 도구/GIt & GitHub/협업/8. PR 설정 및 편의 기능.md",
-    "3. 개발 도구/GIt & GitHub/협업/6. PR 충돌 최소화.md",
-    "3. 개발 도구/GIt & GitHub/협업/5. PR 충돌 해결 방법.md",
-    "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
-    "2. 프로그래밍 언어/파이썬/용어 정리/슬라이싱.md",
-    "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/2. 프로젝트 생성.md",
     "2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
-    "3. 개발 도구/GIt & GitHub/GitHub/레포지토리.md",
-    "3. 개발 도구/GIt & GitHub/GitHub/원격 저장소로 내용 옮기기.md",
-    "3. 개발 도구/GIt & GitHub/GitHub/원격 저장소로 연결하기.md",
-    "3. 개발 도구/GIt & GitHub/협업/2. Pull Request란.md",
+    "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
+    "4. 전체 용어 정리/빈 데이터.md",
+    "4. 전체 용어 정리/객체 지향.md",
+    "4. 전체 용어 정리",
+    "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md",
+    "Excalidraw",
     "9999.이미지 등/Pasted image 20250401210730.png",
     "9999.이미지 등/Pasted image 20250401210525.png",
-    "9999.이미지 등/Pasted image 20250330194500.png",
-    "9999.이미지 등/Pasted image 20250330195451.png",
-    "9999.이미지 등/Pasted image 20250330195530.png",
     "9999.이미지 등/Pasted image 20250330195835.png",
-    "9999.이미지 등/Pasted image 20250321155855.png",
-    "9999.이미지 등/Pasted image 20250329133605.png",
-    "9999.이미지 등/Pasted image 20250321141758.png",
+    "9999.이미지 등/Pasted image 20250330195530.png",
+    "9999.이미지 등/Pasted image 20250330195451.png",
+    "9999.이미지 등/Pasted image 20250330194500.png",
+    "9999.이미지 등",
+    "3. 개발 도구/GIt & GitHub/협업/무제.md",
+    "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
+    "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
+    "3. 개발 도구/GIt & GitHub/협업/8. PR 설정 및 편의 기능.md",
+    "3. 개발 도구/GIt & GitHub/협업/7. 좋은 PR.md",
     "3. 개발 도구/GIt & GitHub/협업",
+    "3. 개발 도구/GIt & GitHub/GitHub",
+    "3. 개발 도구/GIt & GitHub/이론 및 기초",
+    "2. 프로그래밍 언어/파이썬/용어 정리",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능",
     "2. 프로그래밍 언어/자바/02. 개발 환경 구축",
     "2. 프로그래밍 언어/자바/01. 자바와 객체 지향 프로그래밍 알아보기",
-    "2. 프로그래밍 언어/자바",
-    "이미지 등",
-    "4. 전체 용어 정리",
-    "2. 프로그래밍 언어/파이썬/용어 정리",
-    "3. 개발 도구",
     "무제 1.canvas",
     "무제.canvas"
   ]
