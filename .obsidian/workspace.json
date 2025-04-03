@@ -11,10 +11,14 @@
             "id": "6a814e429a84e8c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. 코드 리뷰 문화"
             }
           }
         ]
@@ -189,6 +193,8 @@
   },
   "active": "6a814e429a84e8c8",
   "lastOpenFiles": [
+    "3. 개발 도구/GIt & GitHub/협업/9.3. 자동으로 스타일 맞추기 Linting.md",
+    "3. 개발 도구/GIt & GitHub/협업/7. 좋은 PR.md",
     "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
     "2. 프로그래밍 언어/자바/01. 자바와 객체 지향 프로그래밍 알아보기/000. 용어 정리.md",
@@ -200,11 +206,9 @@
     "2. 프로그래밍 언어/자바/00. 용어 정리/객체 지향.md",
     "2. 프로그래밍 언어/자바/02. 개발 환경 구축/1. 인텔리제이를 쓰는 이유.md",
     "2. 프로그래밍 언어/자바/00. 용어 정리",
-    "3. 개발 도구/GIt & GitHub/협업/9.3. 자동으로 스타일 맞추기 Linting.md",
     "3. 개발 도구/GIt & GitHub/협업/9.2. 좋은 커밋(코드 리뷰용).md",
     "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
     "3. 개발 도구/GIt & GitHub/협업/8. PR 설정 및 편의 기능.md",
-    "3. 개발 도구/GIt & GitHub/협업/7. 좋은 PR.md",
     "3. 개발 도구/GIt & GitHub/협업/6. PR 충돌 최소화.md",
     "3. 개발 도구/GIt & GitHub/협업/5. PR 충돌 해결 방법.md",
     "2. 프로그래밍 언어/파이썬/문자열 출력.md",
