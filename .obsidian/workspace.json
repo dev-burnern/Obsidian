@@ -53,12 +53,14 @@
             "id": "b4cfe4cf5870f426",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md"
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-03 16.12.23.excalidraw"
+              "icon": "lucide-file",
+              "title": "7.1 new 연산자"
             }
           }
         ],
@@ -234,10 +236,11 @@
   },
   "active": "b4cfe4cf5870f426",
   "lastOpenFiles": [
+    "9999.이미지 등/Pasted image 20250403161750.png",
+    "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
     "9999.이미지 등/Pasted Image 20250403161251_856.png",
     "9999.이미지 등/Pasted Image 20250403161231_071.png",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
-    "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7. 인스턴스화.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/5. 명령 추가.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
@@ -266,7 +269,6 @@
     "9999.이미지 등/Pasted image 20250330195530.png",
     "9999.이미지 등/Pasted image 20250330195451.png",
     "9999.이미지 등/Pasted image 20250330194500.png",
-    "9999.이미지 등/Pasted image 20250329133605.png",
     "9999.이미지 등",
     "3. 개발 도구/GIt & GitHub/협업/무제.md",
     "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
