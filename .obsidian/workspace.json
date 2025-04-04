@@ -53,12 +53,14 @@
             "id": "b4cfe4cf5870f426",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md"
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-03 16.12.23.excalidraw"
+              "icon": "lucide-file",
+              "title": "7.1 new 연산자"
             }
           }
         ],
@@ -234,9 +236,9 @@
   },
   "active": "b4cfe4cf5870f426",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "9999.이미지 등/Pasted image 20250403161750.png",
-    "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
     "9999.이미지 등/Pasted Image 20250403161251_856.png",
     "9999.이미지 등/Pasted Image 20250403161231_071.png",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7. 인스턴스화.md",
