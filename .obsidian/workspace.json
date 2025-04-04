@@ -210,14 +210,23 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "fc4f79f0a0eafe7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4cfe4cf5870f426",
+  "active": "fc4f79f0a0eafe7e",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
