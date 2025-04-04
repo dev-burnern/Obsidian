@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "file": "3. 개발 도구/GIt & GitHub/이론 및 기초/00. 핵심 개념 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 new 연산자"
+              "title": "00. 핵심 개념 정리"
             }
           }
         ],
@@ -210,14 +210,23 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "fc4f79f0a0eafe7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +245,20 @@
   },
   "active": "b4cfe4cf5870f426",
   "lastOpenFiles": [
-    "9999.이미지 등/Pasted image 20250403161750.png",
+    "3. 개발 도구/GIt & GitHub/이론 및 기초/작업 영역.md",
+    "3. 개발 도구/GIt & GitHub/이론 및 기초/00. 핵심 개념 정리.md",
+    "3. 개발 도구/GIt & GitHub/이론 및 기초/0.해당 폴더 명령어 정리.md",
+    "3. 개발 도구/GIt & GitHub/GitHub/원격 저장소로 내용 옮기기.md",
+    "3. 개발 도구/GIt & GitHub/GitHub/레포지토리.md",
+    "3. 개발 도구/GIt & GitHub/이론 및 기초/Git.md",
+    "3. 개발 도구/GIt & GitHub/이론 및 기초/커밋.md",
+    "2. 프로그래밍 언어/리눅스/공부X.md",
+    "2. 프로그래밍 언어/리눅스/무제.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "Excalidraw/Drawing 2025-04-03 16.12.23.excalidraw.md",
+    "9999.이미지 등/Pasted image 20250403161750.png",
     "9999.이미지 등/Pasted Image 20250403161251_856.png",
     "9999.이미지 등/Pasted Image 20250403161231_071.png",
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7. 인스턴스화.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/5. 명령 추가.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/6. 메인 메서드 생성.md",
@@ -258,23 +276,14 @@
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/2. 프로젝트 생성.md",
     "2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
     "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
-    "4. 전체 용어 정리/빈 데이터.md",
-    "4. 전체 용어 정리/객체 지향.md",
     "4. 전체 용어 정리",
-    "Excalidraw/Drawing 2025-03-29 13.33.21.excalidraw.md",
     "Excalidraw",
     "9999.이미지 등/Pasted image 20250401210730.png",
     "9999.이미지 등/Pasted image 20250401210525.png",
     "9999.이미지 등/Pasted image 20250330195835.png",
     "9999.이미지 등/Pasted image 20250330195530.png",
     "9999.이미지 등/Pasted image 20250330195451.png",
-    "9999.이미지 등/Pasted image 20250330194500.png",
     "9999.이미지 등",
-    "3. 개발 도구/GIt & GitHub/협업/무제.md",
-    "3. 개발 도구/GIt & GitHub/협업/9.1. GitHub에서.md",
-    "3. 개발 도구/GIt & GitHub/협업/9. 코드 리뷰 문화.md",
-    "3. 개발 도구/GIt & GitHub/협업/8. PR 설정 및 편의 기능.md",
-    "3. 개발 도구/GIt & GitHub/협업/7. 좋은 PR.md",
     "3. 개발 도구/GIt & GitHub/협업",
     "3. 개발 도구/GIt & GitHub/GitHub",
     "3. 개발 도구/GIt & GitHub/이론 및 기초",
