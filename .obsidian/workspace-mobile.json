@@ -144,12 +144,22 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화돼있지 않음"
         }
       },
       {
         "id": "b706c1f8dff30fb2",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화돼있지 않음"
+        }
+      },
+      {
+        "id": "f48c77c3fa7cc775",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -172,8 +182,7 @@
       "markdown-importer:마크다운 형식 불러오기 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e503518807b2241f",
