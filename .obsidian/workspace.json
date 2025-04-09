@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4cfe4cf5870f426",
+  "active": "f97404610b5fc68a",
   "lastOpenFiles": [
     "5. 코딩 테스트/0장 , 27~31P.md",
     "5. 코딩 테스트/1장, 34~36P.md",
