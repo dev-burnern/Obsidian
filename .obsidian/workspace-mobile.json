@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "1장, 37P"
             }
+          },
+          {
+            "id": "a3c90e63085f0dae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 17.17.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 17.17.11.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. 코딩 테스트/1장, 37P.md",
+            "file": "Excalidraw/Drawing 2025-04-09 17.17.11.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,15 +213,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a23c38b25d79d5",
+  "active": "a3c90e63085f0dae",
   "lastOpenFiles": [
+    "5. 코딩 테스트/1장, 37P.md",
+    "Excalidraw/Drawing 2025-04-09 17.17.11.excalidraw.md",
     "5. 코딩 테스트/3장, 53~.md",
     "/5. 코딩 테스트/3장, 53~.md",
     "/Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
     "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
     "/Excalidraw",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
-    "5. 코딩 테스트/1장, 37P.md",
     "9999.이미지 등/Pasted image 20250409095147.png",
     "Excalidraw/Drawing 2025-04-09 09.48.07.excalidraw.md",
     "5. 코딩 테스트/0장, 27~31P.md",
@@ -242,7 +255,6 @@
     "/2. 프로그래밍 언어/리눅스",
     "3. 개발 도구/GIt & GitHub/이론 및 기초/00. 핵심 개념 정리.md",
     "programming/2. 프로그래밍 언어/리눅스/01. 파일과 디렉터리/4. 디렉터리 명령.md",
-    "Excalidraw/Drawing 2025-04-03 15.55.40.excalidraw.md",
     "9999.이미지 등/Pasted image 20250403161750.png",
     "9999.이미지 등/Pasted image 20250403152639.png",
     "9999.이미지 등/Pasted image 20250403152609.png",
