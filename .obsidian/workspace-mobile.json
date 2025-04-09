@@ -33,8 +33,7 @@
               "title": "Drawing 2025-04-08 10.34.01.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2025-04-08 10.34.01.excalidraw.md",
+            "file": "5. 코딩 테스트/1장, 34~36P.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,11 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4460add37a7e38d",
+  "active": "cbca35014bd82ef7",
   "lastOpenFiles": [
-    "5. 코딩 테스트/1장, 34~36P.md",
-    "9999.이미지 등/Pasted image 20250409093348.png",
+    "9999.이미지 등/Pasted image 20250409093502.png",
     "Excalidraw/Drawing 2025-04-08 10.34.01.excalidraw.md",
+    "5. 코딩 테스트/1장, 34~36P.md",
+    "9999.이미지 등/Pasted image 20250409093445.png",
+    "9999.이미지 등/Pasted image 20250409093348.png",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/3.1. 클래스 이름 규칙.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
@@ -244,7 +245,6 @@
     "/9999.이미지 등/Pasted image 20250403161750.png",
     "/9999.이미지 등/Pasted image 20250403152639.png",
     "/9999.이미지 등/Pasted image 20250403152609.png",
-    "/9999.이미지 등/Pasted Image 20250403161251_856.png",
     "/2. 프로그래밍 언어/파이썬/용어 정리"
   ]
 }
