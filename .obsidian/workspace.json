@@ -67,12 +67,14 @@
             "id": "1b23a14e30bbc320",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md"
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-09 12.24.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "7.1 new 연산자"
             }
           }
         ],
@@ -195,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-04-09 12.24.54.excalidraw 의 개요"
+              "title": "7.1 new 연산자 의 개요"
             }
           },
           {
@@ -259,8 +261,8 @@
   },
   "active": "1b23a14e30bbc320",
   "lastOpenFiles": [
-    "5. 코딩 테스트/0장, 27~31P.md",
     "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
+    "5. 코딩 테스트/0장, 27~31P.md",
     "5. 코딩 테스트/1장, 34~36P.md",
     "5. 코딩 테스트/1장, 37P.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
