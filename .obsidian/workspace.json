@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "0장, 27~31P"
             }
+          },
+          {
+            "id": "1b23a14e30bbc320",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 12.24.54.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. 코딩 테스트/0장, 27~31P.md",
+                "file": "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0장, 27~31P 의 개요"
+              "title": "Drawing 2025-04-09 12.24.54.excalidraw 의 개요"
             }
           },
           {
@@ -245,14 +257,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4cfe4cf5870f426",
+  "active": "1b23a14e30bbc320",
   "lastOpenFiles": [
+    "5. 코딩 테스트/0장, 27~31P.md",
+    "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
     "5. 코딩 테스트/1장, 34~36P.md",
     "5. 코딩 테스트/1장, 37P.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "9999.이미지 등/Pasted image 20250409095147.png",
     "Excalidraw/Drawing 2025-04-09 09.48.07.excalidraw.md",
-    "5. 코딩 테스트/0장, 27~31P.md",
     "9999.이미지 등/Pasted image 20250409093502.png",
     "9999.이미지 등/Pasted image 20250409093445.png",
     "9999.이미지 등/Pasted image 20250409093348.png",
