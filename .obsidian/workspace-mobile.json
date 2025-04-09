@@ -35,8 +35,7 @@
               "title": "1장, 37P"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. 코딩 테스트/1장, 37P.md",
+            "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,13 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a23c38b25d79d5",
+  "active": "cbca35014bd82ef7",
   "lastOpenFiles": [
+    "5. 코딩 테스트/1장, 37P.md",
     "9999.이미지 등/Pasted image 20250409095147.png",
     "Excalidraw/Drawing 2025-04-09 09.48.07.excalidraw.md",
     "5. 코딩 테스트/0장, 27~31P.md",
     "/5. 코딩 테스트/0장, 27~31P.md",
-    "5. 코딩 테스트/1장, 37P.md",
     "/5. 코딩 테스트/1장, 37P.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
     "5. 코딩 테스트/1장, 34~36P.md",
@@ -247,7 +246,6 @@
     "9999.이미지 등/Pasted Image 20250403161251_856.png",
     "9999.이미지 등/Pasted Image 20250403161231_071.png",
     "/9999.이미지 등/Pasted image 20250403161750.png",
-    "/9999.이미지 등/Pasted image 20250403152639.png",
     "/2. 프로그래밍 언어/파이썬/용어 정리"
   ]
 }
