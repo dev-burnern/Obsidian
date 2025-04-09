@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 코딩 테스트/1장, 37P.md",
+                "file": "5. 코딩 테스트/3장, 53~.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1장, 37P"
+              "title": "3장, 53~"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. 코딩 테스트/1장, 37P.md",
+                "file": "5. 코딩 테스트/3장, 53~.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1장, 37P 의 개요"
+              "title": "3장, 53~ 의 개요"
             }
           },
           {
@@ -261,11 +261,12 @@
   },
   "active": "1b23a14e30bbc320",
   "lastOpenFiles": [
+    "5. 코딩 테스트/1장, 37P.md",
+    "5. 코딩 테스트/3장, 53~.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
     "5. 코딩 테스트/0장, 27~31P.md",
     "5. 코딩 테스트/1장, 34~36P.md",
-    "5. 코딩 테스트/1장, 37P.md",
     "9999.이미지 등/Pasted image 20250409095147.png",
     "Excalidraw/Drawing 2025-04-09 09.48.07.excalidraw.md",
     "9999.이미지 등/Pasted image 20250409093502.png",
@@ -295,7 +296,6 @@
     "Excalidraw/Drawing 2025-04-03 15.22.13.excalidraw.md",
     "Excalidraw/Drawing 2025-04-03 15.55.40.excalidraw.md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/6.1. 메인 메서드 선언.md",
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
     "9999.이미지 등/Pasted image 20250403152639.png",
     "9999.이미지 등/Pasted image 20250403152609.png",
     "4. 전체 용어 정리",
