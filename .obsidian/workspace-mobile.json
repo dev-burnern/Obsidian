@@ -47,7 +47,8 @@
               "title": "Drawing 2025-04-10 13.51.51.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
+            "file": "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -222,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbca35014bd82ef7",
+  "active": "e9cb0f93cc52a726",
   "lastOpenFiles": [
+    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.5. 출력 장치 ( Output Devices ).md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
     "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
@@ -249,7 +251,6 @@
     "2. 프로그래밍 언어/DB(oracle)/003. DCL(데이터 제어어).md",
     "2. 프로그래밍 언어/DB(oracle)/002. DDL(데이터 정의어).md",
     "2. 프로그래밍 언어/DB(oracle)/001. DML(데이터 조작어).md",
-    "2. 프로그래밍 언어/파이썬/문자열 출력.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조",
     "/1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조",
