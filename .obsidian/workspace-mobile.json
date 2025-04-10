@@ -39,12 +39,14 @@
             "id": "e9cb0f93cc52a726",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md"
+                "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02. 하드웨어.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-10 13.51.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "02. 하드웨어"
             }
           }
         ],
@@ -125,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
+            "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02. 하드웨어.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,10 +227,12 @@
   },
   "active": "e9cb0f93cc52a726",
   "lastOpenFiles": [
+    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/01. 컴퓨터란.md",
+    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02. 하드웨어.md",
+    "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.5. 출력 장치 ( Output Devices ).md",
     "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
-    "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조/06. 변형 및 발전.md",
     "2. 프로그래밍 언어/리눅스/01. 파일과 디렉터리/2. 디렉터리 계층 구조.md",
     "2. 프로그래밍 언어/리눅스/01. 파일과 디렉터리/1.파일의 종류.md",
@@ -246,8 +250,6 @@
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/3. 소프트웨어.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.2. 메모리 ( Memory ).md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.1. CPU( 중앙 처리 장치 ).md",
-    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02. 하드웨어.md",
-    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/01. 컴퓨터란.md",
     "2. 프로그래밍 언어/DB(oracle)/003. DCL(데이터 제어어).md",
     "2. 프로그래밍 언어/DB(oracle)/002. DDL(데이터 정의어).md",
     "2. 프로그래밍 언어/DB(oracle)/001. DML(데이터 조작어).md",
