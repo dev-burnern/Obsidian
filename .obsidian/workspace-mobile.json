@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "1장, 37P"
             }
-          },
-          {
-            "id": "a3c90e63085f0dae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-09 17.17.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-09 17.17.11.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2025-04-09 17.17.11.excalidraw.md",
+            "file": "5. 코딩 테스트/1장, 37P.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3c90e63085f0dae",
+  "active": "f5a23c38b25d79d5",
   "lastOpenFiles": [
-    "5. 코딩 테스트/1장, 37P.md",
     "Excalidraw/Drawing 2025-04-09 17.17.11.excalidraw.md",
+    "5. 코딩 테스트/1장, 37P.md",
     "5. 코딩 테스트/3장, 53~.md",
     "/5. 코딩 테스트/3장, 53~.md",
     "/Excalidraw/Drawing 2025-04-09 12.24.54.excalidraw.md",
