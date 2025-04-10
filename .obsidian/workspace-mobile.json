@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
+                "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 자바의 출력"
+              "title": "02.4. 입력 장치 ( Input Devices )"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "Drawing 2025-04-10 13.51.51.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
+            "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,10 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9cb0f93cc52a726",
+  "active": "cbca35014bd82ef7",
   "lastOpenFiles": [
-    "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조/06. 변형 및 발전.md",
+    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.5. 출력 장치 ( Output Devices ).md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/1. 자바의 출력.md",
     "Excalidraw/Drawing 2025-04-10 13.51.51.excalidraw.md",
+    "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조/06. 변형 및 발전.md",
     "2. 프로그래밍 언어/리눅스/01. 파일과 디렉터리/2. 디렉터리 계층 구조.md",
     "2. 프로그래밍 언어/리눅스/01. 파일과 디렉터리/1.파일의 종류.md",
     "2. 프로그래밍 언어/리눅스/무제.md",
@@ -249,8 +250,6 @@
     "2. 프로그래밍 언어/DB(oracle)/002. DDL(데이터 정의어).md",
     "2. 프로그래밍 언어/DB(oracle)/001. DML(데이터 조작어).md",
     "2. 프로그래밍 언어/파이썬/문자열 출력.md",
-    "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
-    "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조",
     "/1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조",
