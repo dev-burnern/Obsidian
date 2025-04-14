@@ -88,9 +88,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-04-14 11.05.24.excalidraw"
             }
+          },
+          {
+            "id": "a29f93dc32202fcd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-14 12.54.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-14 12.54.20.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,10 +277,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d04bda64d58505a1",
+  "active": "a29f93dc32202fcd",
   "lastOpenFiles": [
-    "5. 코딩 테스트/1장, 37P.md",
     "Excalidraw/Drawing 2025-04-14 11.05.24.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-14 12.54.20.excalidraw.md",
+    "5. 코딩 테스트/1장, 37P.md",
     "5. 코딩 테스트/3장, 53~.md",
     "5. 코딩 테스트/1장, 34~36P.md",
     "5. 코딩 테스트/0장, 27~31P.md",
@@ -306,7 +319,6 @@
     "9999.이미지 등/Pasted image 20250410153701.png",
     "1. 대학교 수업/컴퓨터구조와 운영체제/5. 기억장치/00. 계층적 메모리 구조.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/04. 프로세스와 중앙처리장치/03. 성능 특성.md",
-    "1. 대학교 수업/컴퓨터구조와 운영체제/04. 프로세스와 중앙처리장치/01. 명령어 사이클의 기본 과정.md",
     "/9999.이미지 등/Pasted image 20250410174010.png",
     "/9999.이미지 등/Pasted image 20250410161526.png",
     "/9999.이미지 등/Pasted image 20250410154508.png",
