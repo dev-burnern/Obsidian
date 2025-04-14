@@ -53,14 +53,12 @@
             "id": "759f629ec84962b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. 프로그래밍 언어/파이썬/문자열 출력.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-04-14 09.13.01.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "문자열 출력"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-14 09.13.01.excalidraw"
             }
           }
         ],
@@ -241,6 +239,7 @@
   },
   "active": "759f629ec84962b0",
   "lastOpenFiles": [
+    "2. 프로그래밍 언어/파이썬/문자열 출력.md",
     "Excalidraw/Drawing 2025-04-14 09.13.01.excalidraw.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음/2. 수의표현, 논리회로, 논리연산.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음/1. 컴퓨터의 기본 개념 및 구조.md",
@@ -280,7 +279,6 @@
     "1. 대학교 수업/컴퓨터구조와 운영체제/03. 자료의 표현과 연산/00. 자료의 표현.md",
     "/1. 대학교 수업/컴퓨터구조와 운영체제/04. 프로세스와 중앙처리장치/02. 주요 구성 요소의 역할.md",
     "/1. 대학교 수업/컴퓨터구조와 운영체제/04. 프로세스와 중앙처리장치/00. 프로세서(Processor).md",
-    "/1. 대학교 수업/컴퓨터구조와 운영체제/04. 프로세스와 중앙처리장치/00. 중앙 처리 장치 (CPU).md",
     "/9999.이미지 등/Pasted image 20250410174010.png",
     "/9999.이미지 등/Pasted image 20250410161526.png",
     "/9999.이미지 등/Pasted image 20250410154508.png",
