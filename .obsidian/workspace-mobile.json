@@ -93,12 +93,14 @@
             "id": "a29f93dc32202fcd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-14 12.54.20.excalidraw.md"
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/3.1. 클래스 이름 규칙.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-14 12.54.20.excalidraw"
+              "icon": "lucide-file",
+              "title": "3.1. 클래스 이름 규칙"
             }
           }
         ],
@@ -279,8 +281,8 @@
   },
   "active": "a29f93dc32202fcd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-14 11.05.24.excalidraw.md",
     "Excalidraw/Drawing 2025-04-14 12.54.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-14 11.05.24.excalidraw.md",
     "5. 코딩 테스트/1장, 37P.md",
     "5. 코딩 테스트/3장, 53~.md",
     "5. 코딩 테스트/1장, 34~36P.md",
