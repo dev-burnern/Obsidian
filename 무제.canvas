@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"67b7bc09dd600691","x":-620,"y":-220,"width":400,"height":400,"type":"file","file":"5. 코딩 테스트/3장, 53~.md"}
+		{"id":"ad3791c96fee0ec1","x":-745,"y":-281,"width":400,"height":400,"type":"file","file":"5. 코딩 테스트/1장, 34~36P.md"},
+		{"id":"67b7bc09dd600691","type":"file","file":"5. 코딩 테스트/3장, 53~.md","x":-260,"y":-140,"width":400,"height":400}
 	],
 	"edges":[]
 }
