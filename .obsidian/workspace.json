@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "7.1 new 연산자"
             }
+          },
+          {
+            "id": "de80372869004cf7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-19 13.16.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-19 13.16.29.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +215,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56dde32ac706771c",
+  "active": "de80372869004cf7",
   "lastOpenFiles": [
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+    "Excalidraw/Drawing 2025-04-19 13.16.29.excalidraw.md",
     "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
     "Excalidraw/Drawing 2025-04-16 14.15.01.excalidraw.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.5. 출력 장치 ( Output Devices ).md",
@@ -236,9 +251,7 @@
     "9999.이미지 등/3주차-1-컴퓨터구조와 운영체제(프로세스와 중앙처리장치)-2025／03／18.pdf",
     "1. 대학교 수업/무제 1.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음",
-    "1. 대학교 수업/컴퓨터구조와 운영체제/무제.md",
     "9999.이미지 등/1주차-1-컴퓨터구조와운영체제-2025／03／04 (1).pdf",
-    "1주차-1-컴퓨터구조와운영체제-2025／03／04 (1).md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/5. 기억장치",
     "9999.이미지 등/Pasted image 20250410174010.png",
     "9999.이미지 등/Pasted image 20250410161526.png",
