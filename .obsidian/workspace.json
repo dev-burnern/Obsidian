@@ -15,7 +15,8 @@
               "state": {
                 "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "7.1 new 연산자"
@@ -27,27 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파이썬/01 데이터 타입/06 이진 자료형.md",
+                "file": "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06 이진 자료형"
-            }
-          },
-          {
-            "id": "2fe1cb1027dad8ec",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://wikidocs.net/274931",
-                "title": "1.1. 변수와 자료형 - 소프트웨어 개발 입문",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "1.1. 변수와 자료형 - 소프트웨어 개발 입문"
+              "title": "07 자료형 확인 및 변환"
             }
           }
         ],
@@ -242,15 +229,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "de80372869004cf7",
   "lastOpenFiles": [
-    "파이썬/01 데이터 타입/05 집합 자료형.md",
     "파이썬/01 데이터 타입/06 이진 자료형.md",
+    "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+    "파이썬/01 데이터 타입/05 집합 자료형.md",
     "파이썬/01 데이터 타입/03 시퀀스 자료형.md",
     "파이썬/01 데이터 타입/01 자료형 개요.md",
     "파이썬/01 데이터 타입/04 매핑 자료형.md",
     "파이썬/01 데이터 타입/02 기본 자료형.md",
-    "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
     "변수.md",
     "무제.canvas",
     "파이썬/01_Data_Types/시퀀스 자료형.md",
@@ -271,7 +259,6 @@
     "2. 프로그래밍 언어/파이썬/용어 정리/슬라이싱.md",
     "2. 프로그래밍 언어/파이썬/문자열 출력.md",
     "Excalidraw/Drawing 2025-04-19 13.16.29.excalidraw.md",
-    "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
     "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
     "9999.이미지 등/2주차-1-컴퓨터구조와 운영체제(수의표현／논리회로／논리연산)-2025／03／11 (1).pdf",
     "9999.이미지 등/6주차-1-컴퓨터구조와 운영체제(운영체제개요에서기능／구조와 발전 과정그리고프로세스관리에서스로세스상태／PCB／문맥 교환스레드와멀티스레딩CPU스케줄링등)-2025／04／10.pdf",
