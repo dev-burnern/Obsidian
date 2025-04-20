@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "01_Data_Type_Overview"
             }
+          },
+          {
+            "id": "2fe1cb1027dad8ec",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://wikidocs.net/274931",
+                "title": "1.1. 변수와 자료형 - 소프트웨어 개발 입문",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "1.1. 변수와 자료형 - 소프트웨어 개발 입문"
+            }
           }
         ],
         "currentTab": 2
@@ -243,9 +257,9 @@
   },
   "active": "6899e07d763ea6b5",
   "lastOpenFiles": [
+    "파이썬/01_Data_Types/01_Data_Type_Overview.md",
     "파이썬/01_Data_Types",
     "변수.md",
-    "파이썬/01_Data_Types/01_Data_Type_Overview.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음/2. 수의표현, 논리회로, 논리연산.md",
     "파이썬",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음/1. 컴퓨터의 기본 개념 및 구조.md",
@@ -279,7 +293,6 @@
     "9999.이미지 등/5주차-2-컴퓨터구조와 운영체제(운영체제／개념과 목적／커널과 시스템 콜 등)-2025／04／03.pdf",
     "9999.이미지 등/3주차-1-컴퓨터구조와 운영체제(프로세스와 중앙처리장치)-2025／03／18.pdf",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음",
-    "9999.이미지 등/1주차-1-컴퓨터구조와운영체제-2025／03／04 (1).pdf",
     "9999.이미지 등/Pasted image 20250410174010.png",
     "9999.이미지 등/Pasted image 20250410161526.png",
     "9999.이미지 등/Pasted image 20250410154508.png",
