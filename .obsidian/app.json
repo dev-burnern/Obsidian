@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "9999.이미지 등",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showLineNumber": false
 }
