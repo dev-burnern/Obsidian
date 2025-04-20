@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파이썬/01_Data_Types/03 시퀀스 자료형.md",
+                "file": "파이썬/01_Data_Types/04 매핑 자료형.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03 시퀀스 자료형"
+              "title": "04 매핑 자료형"
             }
           },
           {
@@ -244,8 +244,8 @@
   },
   "active": "de80372869004cf7",
   "lastOpenFiles": [
-    "파이썬/01_Data_Types/02 기본 자료형.md",
     "파이썬/01_Data_Types/03 시퀀스 자료형.md",
+    "파이썬/01_Data_Types/02 기본 자료형.md",
     "파이썬/01_Data_Types/01 자료형 개요.md",
     "파이썬/01_Data_Types/07 자료형 확인 및 변환.md",
     "파이썬/01_Data_Types/06 이진 자료형.md",
