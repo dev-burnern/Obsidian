@@ -119,12 +119,15 @@
             "id": "db77946a7c97714e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md"
+                "file": "재귀 함수.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-16 14.15.02.excalidraw"
+              "icon": "lucide-file",
+              "title": "재귀 함수"
             }
           }
         ],
@@ -305,6 +308,7 @@
   },
   "active": "db77946a7c97714e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
     "파이썬/02 문자열/01 문자열 기초.md",
     "파이썬/02 문자열/02 문자열 출력.md",
     "/파이썬/02 문자열/01 문자열 기초.md",
@@ -336,7 +340,6 @@
     "/2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
     "/2. 프로그래밍 언어/자바",
     "/2. 프로그래밍 언어",
-    "/Excalidraw/Drawing 2025-04-20 20.05.06.excalidraw.md",
     "/Excalidraw",
     "파이썬/01 데이터 타입",
     "파이썬",
