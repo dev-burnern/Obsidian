@@ -15,7 +15,8 @@
               "state": {
                 "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "02.4. 입력 장치 ( Input Devices )"
@@ -142,8 +143,7 @@
               "title": "Drawing 2025-04-22 11.02.48.excalidraw"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#함수가",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -318,10 +318,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52d99a3d3e4597e2",
+  "active": "da1e478e65208da0",
   "lastOpenFiles": [
-    "재귀 함수.md",
     "Excalidraw/Drawing 2025-04-22 11.02.48.excalidraw.md",
+    "재귀 함수.md",
     "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
     "파이썬/02 문자열/01 문자열 기초.md",
     "파이썬/02 문자열/02 문자열 출력.md",
