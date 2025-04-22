@@ -129,9 +129,21 @@
               "icon": "lucide-file",
               "title": "재귀 함수"
             }
+          },
+          {
+            "id": "52d99a3d3e4597e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-22 11.02.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 11.02.48.excalidraw"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -306,8 +318,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db77946a7c97714e",
+  "active": "52d99a3d3e4597e2",
   "lastOpenFiles": [
+    "재귀 함수.md",
+    "Excalidraw/Drawing 2025-04-22 11.02.48.excalidraw.md",
     "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
     "파이썬/02 문자열/01 문자열 기초.md",
     "파이썬/02 문자열/02 문자열 출력.md",
@@ -315,7 +329,6 @@
     "/파이썬/02 문자열/02 문자열 출력.md",
     "파이썬/02 문자열",
     "/파이썬/02 문자열",
-    "재귀 함수.md",
     "0 할일/2025-04-22.md",
     "/재귀 함수.md",
     "/0 할일/2025-04-22.md",
@@ -337,7 +350,6 @@
     "/파이썬/01 데이터 타입/02 기본 자료형.md",
     "/파이썬/01 데이터 타입/01 자료형 개요.md",
     "/Excalidraw/Drawing 2025-04-19 13.16.29.excalidraw.md",
-    "/2. 프로그래밍 언어/자바/0. IntelliJ 단축키.md",
     "/2. 프로그래밍 언어/자바",
     "/2. 프로그래밍 언어",
     "/Excalidraw",
