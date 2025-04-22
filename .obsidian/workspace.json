@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "컴퓨터 구조"
             }
+          },
+          {
+            "id": "aa375408615769d6",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,10 +236,11 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "de80372869004cf7",
+  "active": "aa375408615769d6",
   "lastOpenFiles": [
     "파이썬/01 데이터 타입/06 이진 자료형.md",
     "컴퓨터 구조.md",
