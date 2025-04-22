@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "2653de9f098d868c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "2115e6b8d385bbc3",
             "type": "leaf",
             "state": {
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -285,7 +297,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aaeb4a1f16a5d713",
+  "active": "2653de9f098d868c",
   "lastOpenFiles": [
     "0 할일/2025-04-23 직업 윤리.md",
     "0 할일/2025-04-22.md",
