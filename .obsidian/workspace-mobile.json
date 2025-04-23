@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9fda5ab82a38b396",
+        "id": "c17d8f9f7bb167d4",
         "type": "tabs",
         "children": [
           {
-            "id": "cbca35014bd82ef7",
+            "id": "394e46251757648a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "02.4. 입력 장치 ( Input Devices )"
-            }
-          },
-          {
-            "id": "5616366bec4a6612",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-22 19.33.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-22 19.33.10.excalidraw"
-            }
-          },
-          {
-            "id": "f5a23c38b25d79d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조/06. 변형 및 발전.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "06. 변형 및 발전"
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a23c38b25d79d5",
+  "active": "394e46251757648a",
   "lastOpenFiles": [
+    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
+    "Excalidraw/Drawing 2025-04-22 19.33.10.excalidraw.md",
+    "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조/06. 변형 및 발전.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/0. PDF모음/2. 수의표현, 논리회로, 논리연산.md",
     "2. 프로그래밍 언어/자바/01. 자바와 객체 지향 프로그래밍 알아보기/003. 추상화.md",
     "5. 코딩 테스트/1장, 37P.md",
@@ -236,7 +206,6 @@
     "Excalidraw/Drawing 2025-04-16 14.15.01.excalidraw.md",
     "재귀 함수.md",
     "Excalidraw/Drawing 2025-04-22 11.02.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-22 19.33.10.excalidraw.md",
     "컴퓨터 구조.md",
     "0 할일/2025-04-23 현실을 살아웅 보고 옵시디언 정리하기.md",
     "0 할일/2025-04-23 직업 윤리.md",
@@ -252,9 +221,7 @@
     "/0 할일/2025-04-23 샛별이 도와주기.md",
     "0 할일/2025-04-23 샛별이 도와주기.md",
     "/0 할일",
-    "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
     "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
-    "파이썬/02 문자열/01 문자열 기초.md",
     "파이썬/02 문자열",
     "/파이썬/02 문자열",
     "0 할일",
