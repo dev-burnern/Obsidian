@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c17d8f9f7bb167d4",
+        "id": "b3fa7567c8d3f8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "394e46251757648a",
+            "id": "adf03ad3f55bbb74",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "3a7ef6c4cd5f09c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,9 +173,19 @@
           "icon": "spreadsheet",
           "title": "Advanced Tables"
         }
+      },
+      {
+        "id": "57944b646739db05",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 6
+    "currentTab": 7
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a7ef6c4cd5f09c2",
+  "active": "adf03ad3f55bbb74",
   "lastOpenFiles": [
     "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
