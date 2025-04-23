@@ -16,8 +16,19 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "3a7ef6c4cd5f09c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "394e46251757648a",
+  "active": "3a7ef6c4cd5f09c2",
   "lastOpenFiles": [
+    "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
     "Excalidraw/Drawing 2025-04-22 19.33.10.excalidraw.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/02. 폰 노이만 구조/06. 변형 및 발전.md",
@@ -221,7 +233,6 @@
     "/0 할일/2025-04-23 샛별이 도와주기.md",
     "0 할일/2025-04-23 샛별이 도와주기.md",
     "/0 할일",
-    "Excalidraw/Drawing 2025-04-16 14.15.02.excalidraw.md",
     "파이썬/02 문자열",
     "/파이썬/02 문자열",
     "0 할일",
