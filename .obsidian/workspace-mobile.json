@@ -4,20 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "b3fa7567c8d3f8fb",
+        "id": "d6e75dadbba396d1",
         "type": "tabs",
         "children": [
           {
-            "id": "adf03ad3f55bbb74",
+            "id": "5841c4c5427ce323",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0759ef56954d8049",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "무제.canvas",
+                "viewState": {
+                  "x": -117,
+                  "y": -18,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "무제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6d657099e8208545",
@@ -203,8 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adf03ad3f55bbb74",
+  "active": "0759ef56954d8049",
   "lastOpenFiles": [
+    "무제.canvas",
+    "무제.md",
     "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
     "1. 대학교 수업/컴퓨터구조와 운영체제/01. 컴퓨터의 기본 개념 및 구조/02.4. 입력 장치 ( Input Devices ).md",
     "Excalidraw/Drawing 2025-04-22 19.33.10.excalidraw.md",
@@ -229,8 +249,6 @@
     "/0 할일/2025-04-23 점심시간.md",
     "/0 할일/2025-04-23 자바수업 2.md",
     "/0 할일/2025-04-23 자바 수업.md",
-    "/0 할일/2025-04-23 샛별이 도와주기.md",
-    "0 할일/2025-04-23 샛별이 도와주기.md",
     "/0 할일",
     "파이썬/02 문자열",
     "/파이썬/02 문자열",
