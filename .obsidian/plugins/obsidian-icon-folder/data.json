@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐍",
       "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +31,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1. 대학교 수업": "LiFolder"
+  "1. 대학교 수업": "LiFolder",
+  "파이썬": "🐍"
 }
