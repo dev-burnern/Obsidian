@@ -4,104 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "d917be5a1d84ea30",
-        "type": "split",
+        "id": "87ee47b628b0df06",
+        "type": "tabs",
         "children": [
           {
-            "id": "87ee47b628b0df06",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "56dde32ac706771c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "7.1 new 연산자"
-                }
+            "id": "56dde32ac706771c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/7.1 new 연산자.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              {
-                "id": "de80372869004cf7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "컴퓨터 구조.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "컴퓨터 구조"
-                }
-              },
-              {
-                "id": "aaeb4a1f16a5d713",
-                "type": "leaf",
-                "state": {
-                  "type": "full-calendar-view",
-                  "state": {},
-                  "icon": "calendar-glyph",
-                  "title": "Calendar"
-                }
-              },
-              {
-                "id": "b08f58b4725daab0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "교양 정리.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "교양 정리"
-                }
-              },
-              {
-                "id": "cd61f95ca586b605",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "백엔드 개발자 로드맵.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "백엔드 개발자 로드맵"
-                }
-              }
-            ],
-            "currentTab": 4
+              "icon": "lucide-file",
+              "title": "7.1 new 연산자"
+            }
           },
           {
-            "id": "c2080846f5fbaf16",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35c07fe84e5d4fc3",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {},
-                  "icon": "dot-network",
-                  "title": "Mind Map of 백엔드 개발자 로드맵"
-                }
-              }
-            ]
+            "id": "de80372869004cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터 구조.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "컴퓨터 구조"
+            }
+          },
+          {
+            "id": "aaeb4a1f16a5d713",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b08f58b4725daab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드 개발자 로드맵.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "백엔드 개발자 로드맵"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,8 +255,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "35c07fe84e5d4fc3",
+  "active": "b08f58b4725daab0",
   "lastOpenFiles": [
+    "재귀 함수.md",
     "교양 정리.md",
     "백엔드 개발자 로드맵.md",
     "컴퓨터 구조.md",
@@ -313,7 +276,6 @@
     "파이썬/01 데이터 타입/06 이진 자료형.md",
     "Excalidraw/Drawing 2025-04-22 19.33.10.excalidraw.md",
     "Excalidraw/Drawing 2025-04-22 11.02.48.excalidraw.md",
-    "재귀 함수.md",
     "파이썬/01 데이터 타입/07 자료형 확인 및 변환.md",
     "2025-04-21.md",
     "0 할일",
