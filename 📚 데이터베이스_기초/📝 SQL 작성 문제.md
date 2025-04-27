@@ -55,29 +55,21 @@ SELECT emp_name, salary FROM y_emp WHERE salary > (SELECT AVG(salary) FROM y_emp
 
 ## **7. GROUP BY + HAVING**
 **문제**: 부서별 평균 급여가 500 이상인 부서의 ID와 평균 급여를 출력하시오.
-``SELECT dept_id, AVG(salary) AS avg_salary FROM y_emp GROUP BY dept_id HAVING AVG(salary) > 500;
-
+```sql
+SELECT dept_id, AVG(salary) AS avg_salary FROM y_emp GROUP BY dept_id HAVING AVG(salary) > 500;
+```
 **🔍 설명**:
-
 - `GROUP BY`: 부서별 그룹화.
-    
 - `HAVING`: 그룹화된 결과 필터링 (WHERE는 개별 행 필터링).
-    
 
 ## **8. 날짜 함수 (TO_CHAR)**
-
 **문제**: 2020년에 입사한 사원의 이름과 입사일을 'YYYY-MM-DD' 형식으로 출력하시오.
-
-sql
-
-`SELECT emp_name, TO_CHAR(hiredate, 'YYYY-MM-DD') AS hire_date FROM y_emp WHERE TO_CHAR(hiredate, 'YYYY') = '2020';`
-
+```sql
+SELECT emp_name, TO_CHAR(hiredate, 'YYYY-MM-DD') AS hire_date FROM y_emp WHERE TO_CHAR(hiredate, 'YYYY') = '2020';
+```
 **🔍 설명**:
-
 - `TO_CHAR`: 날짜를 문자열로 변환.
-    
 - 형식 지정을 통해 연도 추출.
-    
 
 ## **9. UNION**
 
