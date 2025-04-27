@@ -146,53 +146,36 @@ SELECT dept_id,        SUM(CASE WHEN gender = 'M' THEN 1 ELSE 0 END) AS male,   
 
 ## **17. NULLIF**
 **문제**: 커미션(comm)이 0인 경우 NULL로 표시하고 사원 이름과 커미션을 출력하시오.
-
-`SELECT emp_name, NULLIF(comm, 0) AS commission FROM y_emp;
-
+```sql
+SELECT emp_name, NULLIF(comm, 0) AS commission FROM y_emp;
+```
 **🔍 설명**:
-
 - `NULLIF(a, b)`: a가 b와 같으면 NULL 반환.
-    
 - 0을 NULL로 변환하여 의미 없는 값 처리.
-    
 
 ## **18. ROLLUP**
-
 **문제**: 부서별, 직급별 급여 합계와 소계/총계를 함께 출력하시오.
-
-sql
-
-`SELECT dept_id, position, SUM(salary) FROM y_emp GROUP BY ROLLUP(dept_id, position);`
-
+```sql
+SELECT dept_id, position, SUM(salary) FROM y_emp GROUP BY ROLLUP(dept_id, position);
+```
 **🔍 설명**:
-
 - `ROLLUP`: 계층적 소계 및 총계 생성.
-    
 - 결과에 `dept_id`별 소계, 전체 총계 포함.
-    
 
 ## **19. 날짜 차이 계산**
-
 **문제**: 각 사원의 근속 연수를 계산하여 이름과 함께 출력하시오.
-
-sql
-
-`SELECT emp_name,         TRUNC(MONTHS_BETWEEN(SYSDATE, hiredate)/12) AS years FROM y_emp;`
-
+```sql
+SELECT emp_name,         TRUNC(MONTHS_BETWEEN(SYSDATE, hiredate)/12) AS years FROM y_emp;
+```
 **🔍 설명**:
-
 - `MONTHS_BETWEEN`: 두 날짜 간의 월 차이 계산.
-    
 - 12로 나누어 연수 변환 후 `TRUNC`로 정수 처리.
-    
 
 ## **20. CUBE**
-
 **문제**: 부서와 성별 조합별 사원 수를 출력하시오 (모든 조합 포함).
-
-sql
-
-`SELECT dept_id, gender, COUNT(*) FROM y_emp GROUP BY CUBE(dept_id, gender);`
+```
+SELECT dept_id, gender, COUNT(*) FROM y_emp GROUP BY CUBE(dept_id, gender);
+```
 
 **🔍 설명**:
 
