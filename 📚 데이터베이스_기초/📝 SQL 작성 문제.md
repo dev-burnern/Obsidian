@@ -72,49 +72,32 @@ SELECT emp_name, TO_CHAR(hiredate, 'YYYY-MM-DD') AS hire_date FROM y_emp WHERE T
 - 형식 지정을 통해 연도 추출.
 
 ## **9. UNION**
-
 **문제**: 영업부(dept_id=400)와 경영지원부(dept_id=100) 소속 사원의 이름을 중복 없이 출력하시오.
-
-sql
-
-`SELECT emp_name FROM y_emp WHERE dept_id = 100 UNION SELECT emp_name FROM y_emp WHERE dept_id = 400;`
-
+```sql
+SELECT emp_name FROM y_emp WHERE dept_id = 100 UNION SELECT emp_name FROM y_emp WHERE dept_id = 400;
+```
 **🔍 설명**:
-
 - `UNION`: 두 쿼리 결과 합치며 중복 제거.
-    
 - `UNION ALL`은 중복 허용.
-    
 
 ## **10. ROW_NUMBER()**
-
 **문제**: 급여 상위 5명의 사원 이름과 급여를 출력하시오.
-
-sql
-
-`SELECT emp_name, salary FROM (   SELECT emp_name, salary, ROW_NUMBER() OVER (ORDER BY salary DESC) AS rn  FROM y_emp ) WHERE rn <= 5;`
-
+```sql
+SELECT emp_name, salary FROM (   SELECT emp_name, salary, ROW_NUMBER() OVER (ORDER BY salary DESC) AS rn  FROM y_emp ) WHERE rn <= 5;
+```
 **🔍 설명**:
-
 - `ROW_NUMBER()`: 순위 할당.
-    
 - 서브쿼리로 순위 필터링.
-    
-
+- 
 ## **11. Self-Join**
-
 **문제**: 각 사원의 이름과 해당 관리자 이름을 출력하시오.
-
-sql
-
-`SELECT e.emp_name, m.emp_name AS manager_name FROM y_emp e LEFT JOIN y_emp m ON e.mgr_id = m.emp_id;`
-
+```sql
+SELECT e.emp_name, m.emp_name AS manager_name FROM y_emp e LEFT JOIN y_emp m ON e.mgr_id = m.emp_id;
+```
 **🔍 설명**:
-
 - 자기 참조 조인: 동일 테이블을 별칭으로 구분.
-    
 - `LEFT JOIN`: 관리자가 없는 사원도 포함.
-    
+
 
 ## **12. EXISTS**
 
