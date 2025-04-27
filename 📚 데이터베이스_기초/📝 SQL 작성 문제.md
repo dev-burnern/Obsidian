@@ -173,12 +173,9 @@ SELECT emp_name,         TRUNC(MONTHS_BETWEEN(SYSDATE, hiredate)/12) AS years FR
 
 ## **20. CUBE**
 **문제**: 부서와 성별 조합별 사원 수를 출력하시오 (모든 조합 포함).
-```
+```sql
 SELECT dept_id, gender, COUNT(*) FROM y_emp GROUP BY CUBE(dept_id, gender);
 ```
-
 **🔍 설명**:
-
 - `CUBE`: 모든 열 조합에 대한 소계 생성.
-    
 - 결과에 단일 열 그룹별 소계 및 전체 총계 포함.
