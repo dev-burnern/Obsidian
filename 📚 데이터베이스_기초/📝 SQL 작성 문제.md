@@ -6,32 +6,20 @@
 SELECT emp_name, position, hiredate FROM y_emp ORDER BY hiredate;
 ```
 **🔍 설명**:
-
 - `SELECT`: 출력할 열 지정.
 - `ORDER BY`: 결과를 `hiredate` 기준으로 오름차순 정렬 (기본값이 ASC이므로 생략 가능).
-    
-
 ## **2. COUNT와 DISTINCT**
 
 **문제**: 부서 테이블(Y_DEPT)에서 고유한 지역 번호(loc_id)의 개수를 구하시오.
-
-sql
-
-`SELECT COUNT(DISTINCT loc_id) AS unique_locations FROM y_dept;`
-
+```sql
+SELECT COUNT(DISTINCT loc_id) AS unique_locations FROM y_dept;
+```
 **🔍 설명**:
-
 - `COUNT(DISTINCT)`: 중복 제거 후 행 수 계산.
-    
 - `AS`: 결과 열에 별칭 부여.
-    
 
 ## **3. INNER JOIN**
-
 **문제**: 사원 테이블(Y_EMP)과 부서 테이블(Y_DEPT)을 조인하여 사원 이름(emp_name)과 소속 부서 이름(dept_name)을 출력하시오.
-
-sql
-
 `SELECT e.emp_name, d.dept_name FROM y_emp e JOIN y_dept d ON e.dept_id = d.dept_id;`
 
 **🔍 설명**:
