@@ -118,32 +118,22 @@ SELECT emp_name, salary FROM y_emp WHERE salary BETWEEN 400 AND 800;
 
 ## **14. 문자열 연결 (||)**
 **문제**: 사원의 이름과 직급을 '이름(직급)' 형식으로 출력하시오.
-
-sql
-
-`SELECT emp_name || '(' || position || ')' AS emp_info FROM y_emp;`
+```sql
+SELECT emp_name || '(' || position || ')' AS emp_info FROM y_emp;
+```
 
 **🔍 설명**:
-
 - `||`: 문자열 연결 연산자.
-    
 - 괄호와 함께 리터럴 문자열 사용.
-    
 
 ## **15. CTE (WITH)**
-
 **문제**: 부서별 최대 급여를 받는 사원의 이름과 급여를 출력하시오.
-
-sql
-
-`WITH dept_max AS (   SELECT dept_id, MAX(salary) AS max_salary  FROM y_emp  GROUP BY dept_id ) SELECT e.emp_name, e.salary FROM y_emp e JOIN dept_max d ON e.dept_id = d.dept_id AND e.salary = d.max_salary;`
-
+```sql
+WITH dept_max AS (   SELECT dept_id, MAX(salary) AS max_salary  FROM y_emp  GROUP BY dept_id ) SELECT e.emp_name, e.salary FROM y_emp e JOIN dept_max d ON e.dept_id = d.dept_id AND e.salary = d.max_salary;
+```
 **🔍 설명**:
-
 - `WITH`: CTE를 사용하여 임시 결과 집합 생성.
-    
 - 메인 쿼리에서 CTE와 조인.
-    
 
 ## **16. Pivot (CASE + SUM)**
 
