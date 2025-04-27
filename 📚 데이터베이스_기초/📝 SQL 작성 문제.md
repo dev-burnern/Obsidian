@@ -98,39 +98,25 @@ SELECT e.emp_name, m.emp_name AS manager_name FROM y_emp e LEFT JOIN y_emp m ON 
 - 자기 참조 조인: 동일 테이블을 별칭으로 구분.
 - `LEFT JOIN`: 관리자가 없는 사원도 포함.
 
-
 ## **12. EXISTS**
-
 **문제**: 최소 한 명의 부하직원이 있는 관리자의 사번을 출력하시오.
-
-sql
-
-`SELECT DISTINCT mgr_id FROM y_emp m WHERE EXISTS (   SELECT 1 FROM y_emp e WHERE e.mgr_id = m.emp_id );`
-
+```sql
+SELECT DISTINCT mgr_id FROM y_emp m WHERE EXISTS (   SELECT 1 FROM y_emp e WHERE e.mgr_id = m.emp_id );
+```
 **🔍 설명**:
-
 - `EXISTS`: 서브쿼리 결과 존재 여부 확인.
-    
 - `DISTINCT`: 중복 관리자 제거.
-    
 
 ## **13. BETWEEN**
-
 **문제**: 급여가 400에서 800 사이인 사원의 이름과 급여를 출력하시오.
-
-sql
-
-`SELECT emp_name, salary FROM y_emp WHERE salary BETWEEN 400 AND 800;`
-
+```sql
+SELECT emp_name, salary FROM y_emp WHERE salary BETWEEN 400 AND 800;
+```
 **🔍 설명**:
-
 - `BETWEEN`: 범위 조건 (양쪽 포함).
-    
 - `AND`로 범위 경계 지정.
-    
 
 ## **14. 문자열 연결 (||)**
-
 **문제**: 사원의 이름과 직급을 '이름(직급)' 형식으로 출력하시오.
 
 sql
