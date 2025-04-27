@@ -20,35 +20,24 @@ SELECT COUNT(DISTINCT loc_id) AS unique_locations FROM y_dept;
 
 ## **3. INNER JOIN**
 **문제**: 사원 테이블(Y_EMP)과 부서 테이블(Y_DEPT)을 조인하여 사원 이름(emp_name)과 소속 부서 이름(dept_name)을 출력하시오.
-`SELECT e.emp_name, d.dept_name FROM y_emp e JOIN y_dept d ON e.dept_id = d.dept_id;`
-
+```sql
+SELECT e.emp_name, d.dept_name FROM y_emp e JOIN y_dept d ON e.dept_id = d.dept_id;
+```
 **🔍 설명**:
-
 - `JOIN ... ON`: 두 테이블을 `dept_id`로 결합.
-    
 - 테이블 별칭(`e`, `d`) 사용으로 코드 간결화.
-    
 
 ## **4. LIKE 연산자**
-
 **문제**: 이름이 '김'으로 시작하는 사원의 사번(emp_id)과 이름(emp_name)을 검색하시오.
-
-sql
-
-`SELECT emp_id, emp_name FROM y_emp WHERE emp_name LIKE '김%';`
-
+```sql
+SELECT emp_id, emp_name FROM y_emp WHERE emp_name LIKE '김%';
+```
 **🔍 설명**:
-
 - `LIKE '김%'`: '김'으로 시작하는 모든 문자열 검색.
-    
 - `%`: 0개 이상의 문자 대체.
-    
-
 ## **5. NULL 처리 (NVL)**
-
 **문제**: 커미션(comm)이 NULL인 사원의 경우 0으로 표시하고, 사원 이름과 커미션을 출력하시오.
 
-sql
 
 `SELECT emp_name, NVL(comm, 0) AS commission FROM y_emp;`
 
