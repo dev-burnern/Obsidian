@@ -136,27 +136,18 @@ WITH dept_max AS (   SELECT dept_id, MAX(salary) AS max_salary  FROM y_emp  GROU
 - 메인 쿼리에서 CTE와 조인.
 
 ## **16. Pivot (CASE + SUM)**
-
 **문제**: 부서별 남녀 사원 수를 가로로 출력하시오.
-
-sql
-
-`SELECT dept_id,        SUM(CASE WHEN gender = 'M' THEN 1 ELSE 0 END) AS male,       SUM(CASE WHEN gender = 'F' THEN 1 ELSE 0 END) AS female FROM y_emp GROUP BY dept_id;`
-
+```sql
+SELECT dept_id,        SUM(CASE WHEN gender = 'M' THEN 1 ELSE 0 END) AS male,       SUM(CASE WHEN gender = 'F' THEN 1 ELSE 0 END) AS female FROM y_emp GROUP BY dept_id;
+```
 **🔍 설명**:
-
 - 조건부 집계: `CASE`로 성별 구분 후 `SUM`으로 카운트.
-    
 - Pivot 테이블 생성.
-    
 
 ## **17. NULLIF**
-
 **문제**: 커미션(comm)이 0인 경우 NULL로 표시하고 사원 이름과 커미션을 출력하시오.
 
-sql
-
-`SELECT emp_name, NULLIF(comm, 0) AS commission FROM y_emp;`
+`SELECT emp_name, NULLIF(comm, 0) AS commission FROM y_emp;
 
 **🔍 설명**:
 
