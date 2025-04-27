@@ -37,39 +37,25 @@ SELECT emp_id, emp_name FROM y_emp WHERE emp_name LIKE '김%';
 - `%`: 0개 이상의 문자 대체.
 ## **5. NULL 처리 (NVL)**
 **문제**: 커미션(comm)이 NULL인 사원의 경우 0으로 표시하고, 사원 이름과 커미션을 출력하시오.
-
-
-`SELECT emp_name, NVL(comm, 0) AS commission FROM y_emp;`
-
+```sql
+SELECT emp_name, NVL(comm, 0) AS commission FROM y_emp;
+```
 **🔍 설명**:
-
 - `NVL(comm, 0)`: `comm`이 NULL이면 0 반환.
-    
 - Oracle 전용 함수. 표준 SQL에서는 `COALESCE(comm, 0)` 사용.
-    
 
 ## **6. 서브쿼리 (WHERE 절)**
-
 **문제**: 급여가 평균 급여보다 많은 사원의 이름과 급여를 출력하시오.
-
-sql
-
-`SELECT emp_name, salary FROM y_emp WHERE salary > (SELECT AVG(salary) FROM y_emp);`
-
+```sql
+SELECT emp_name, salary FROM y_emp WHERE salary > (SELECT AVG(salary) FROM y_emp);
+```
 **🔍 설명**:
-
 - 서브쿼리: 평균 급여 계산 후 메인 쿼리에서 비교.
-    
 - 단일 행 서브쿼리이므로 `>` 사용 가능.
-    
 
 ## **7. GROUP BY + HAVING**
-
 **문제**: 부서별 평균 급여가 500 이상인 부서의 ID와 평균 급여를 출력하시오.
-
-sql
-
-`SELECT dept_id, AVG(salary) AS avg_salary FROM y_emp GROUP BY dept_id HAVING AVG(salary) > 500;`
+``SELECT dept_id, AVG(salary) AS avg_salary FROM y_emp GROUP BY dept_id HAVING AVG(salary) > 500;
 
 **🔍 설명**:
 
