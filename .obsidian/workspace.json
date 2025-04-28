@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
+                "file": "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. 클래스 선언"
+              "title": "None"
             }
           },
           {
@@ -229,8 +229,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "902ad341f891b797",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
+    "2. 프로그래밍 언어/파이썬/용어 정리/포매팅.md",
+    "2. 프로그래밍 언어/파이썬/용어 정리/슬라이싱.md",
+    "2. 프로그래밍 언어/자바/03. 출력하는 기능/3. 클래스 선언.md",
     "☕ 자바/📂 01_기초/📄 Ch02_변수와_자료형.md",
     "☕ 자바/📂 03_객체지향/📄 Ch07_클래스와_객체.md",
     "☕ 자바/📂 02_중급/📄 Ch06_배열과_문자열.md",
@@ -263,11 +266,8 @@
     "📂 1_관계형_데이터베이스_개요",
     "2_SQL_기본/2.1_기본_SELECT_문.md",
     "2_SQL_기본",
-    "백엔드 개발자 로드맵.md",
     "📚 데이터베이스_기초/📂 4_조인",
     "무제.canvas",
-    "재귀 함수.md",
-    "교양 정리.md",
     "9999.이미지 등/Pasted image 20250410174010.png",
     "9999.이미지 등/Pasted image 20250410161526.png",
     "9999.이미지 등/Pasted image 20250410154508.png",
