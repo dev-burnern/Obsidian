@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바/2. 연산자와 형 변환.md",
+                "file": "자바/3. 조건문과 반복문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. 연산자와 형 변환"
+              "title": "3. 조건문과 반복문"
             }
           },
           {
@@ -231,8 +231,8 @@
   },
   "active": "902ad341f891b797",
   "lastOpenFiles": [
-    "자바/3. 조건문과 반복문.md",
     "자바/2. 연산자와 형 변환.md",
+    "자바/3. 조건문과 반복문.md",
     "자바/1. 변수와 자료형.md",
     "2. 프로그래밍 언어/파이썬/용어 정리/None.md",
     "자바/변수와 자료형.md",
