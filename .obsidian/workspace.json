@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☕ 자바/6. 클래스와 객체.md",
+                "file": "☕ 자바/4. 메서드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "6. 클래스와 객체"
+              "title": "4. 메서드"
             }
           },
           {
@@ -247,8 +247,8 @@
   },
   "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "☕ 자바/6. 클래스와 객체.md",
+    "conflict-files-obsidian-git.md",
     "☕ 자바/4. 메서드.md",
     "📚 데이터베이스_기초/📂 2_SQL_기본/📝 2.1_기본_SELECT_문.md",
     "☕ 자바/5. 배열과 문자열.md",
