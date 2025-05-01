@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧LINUX/중간고사 대비/무제.md",
+                "file": "🐧LINUX/중간고사 대비/06 프로세스 관리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "06 프로세스 관리"
             }
           },
           {
@@ -248,7 +248,7 @@
   "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
     "🐧LINUX/중간고사 대비/05 파일 접근 권한.md",
-    "🐧LINUX/중간고사 대비/무제.md",
+    "🐧LINUX/중간고사 대비/06 프로세스 관리.md",
     "🐧LINUX/중간고사 대비/04 셸 사용법.md",
     "🐧LINUX/중간고사 대비/03 문서 편집.md",
     "🐧LINUX/중간고사 대비/02 디렉터리, 파일.md",
