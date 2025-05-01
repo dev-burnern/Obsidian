@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧LINUX/중간고사 대비/04 셸 사용법.md",
+                "file": "🐧LINUX/중간고사 대비/05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04 셸 사용법"
+              "title": "05"
             }
           },
           {
@@ -247,9 +247,10 @@
   },
   "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
+    "🐧LINUX/중간고사 대비/04 셸 사용법.md",
+    "🐧LINUX/중간고사 대비/05.md",
     "🐧LINUX/중간고사 대비/03 문서 편집.md",
     "🐧LINUX/중간고사 대비/02 디렉터리, 파일.md",
-    "🐧LINUX/중간고사 대비/04 셸 사용법.md",
     "🐧LINUX/중간고사 대비",
     "☕ 자바/4. 메서드.md",
     "🐧LINUX",
@@ -276,7 +277,6 @@
     "☕ 자바/예제 15제/04. while문을 이용한 정수 합 계산.md",
     "☕ 자바/예제 15제/03. 홀수합 계산.md",
     "☕ 자바/예제 15제/02. 1부터 100까지 짝수합 계산.md",
-    "☕ 자바/예제 15제/01. 두 실수의 사칙연산.md",
     "☕ 자바/예제 15제",
     "☕ 자바",
     "☕ 자바/📂 03_객체지향",
