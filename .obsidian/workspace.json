@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧LINUX/중간고사 대비/무제.md",
+                "file": "🐧LINUX/중간고사 대비/디렉터리, 파일.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "디렉터리, 파일"
             }
           },
           {
@@ -245,11 +245,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
     "🐧LINUX/중간고사 대비",
     "☕ 자바/4. 메서드.md",
-    "🐧LINUX/중간고사 대비/무제.md",
+    "🐧LINUX/중간고사 대비/디렉터리, 파일.md",
     "🐧LINUX",
     "☕ 자바/6. 클래스와 객체.md",
     "conflict-files-obsidian-git.md",
