@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐧LINUX/중간고사 대비/02 디렉터리, 파일.md",
+                "file": "🐧LINUX/중간고사 대비/03 문서 편집.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02 디렉터리, 파일"
+              "title": "03 문서 편집"
             }
           },
           {
@@ -245,10 +245,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f7bbd1a249b1f8c",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
-    "🐧LINUX/중간고사 대비/03 문서 편집.md",
     "🐧LINUX/중간고사 대비/02 디렉터리, 파일.md",
+    "🐧LINUX/중간고사 대비/03 문서 편집.md",
     "🐧LINUX/중간고사 대비",
     "☕ 자바/4. 메서드.md",
     "🐧LINUX",
