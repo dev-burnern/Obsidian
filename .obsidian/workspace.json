@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#문자열",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f97404610b5fc68a",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
     "파이썬/01 데이터 타입/01 자료형 개요.md",
     "🌐 WEB 기초/무제.md",
