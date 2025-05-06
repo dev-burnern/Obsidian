@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐 WEB 기초/서버와 클라이언트.md",
+                "file": "🌐 WEB 기초/서버.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "서버와 클라이언트"
+              "title": "서버"
             }
           },
           {
@@ -248,7 +248,7 @@
   "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
     "파이썬/01 데이터 타입/01 자료형 개요.md",
-    "🌐 WEB 기초/서버와 클라이언트.md",
+    "🌐 WEB 기초/서버.md",
     "🌐 WEB 기초",
     "🐧LINUX/중간고사 대비/06 프로세스 관리.md",
     "🐧LINUX/중간고사 대비/05 파일 접근 권한.md",
