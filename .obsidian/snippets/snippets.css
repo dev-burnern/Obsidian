@@ -11,3 +11,10 @@
 --font-ui-small: 14px;
 --font-ui-medium: 18px;
 --sidebar-markdown-font-size: 10px;
+body {
+    background-image: url("C:\Users\jorda\Desktop\programming\9999.이미지 등\Pasted Image 20250403161251_856.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
