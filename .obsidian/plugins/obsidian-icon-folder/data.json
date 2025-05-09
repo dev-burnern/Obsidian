@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IcIcons8Css3",
+      "IcIcons8Html",
       "IcIcons8파이썬",
       "IcIcons8힘내",
-      "IcIcons8부두노동자",
-      "IcIcons8Javascript",
-      "LiCoffee"
+      "IcIcons8부두노동자"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,7 @@
   "git, github": "IcIcons8힘내",
   "Doker": "IcIcons8부두노동자",
   "JavaScript": "IcIcons8Javascript",
-  "Python": "IcIcons8파이썬"
+  "Python": "IcIcons8파이썬",
+  "HTML5": "IcIcons8Html",
+  "CSS": "IcIcons8Css3"
 }
