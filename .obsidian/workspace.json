@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐 WEB 기초/1.웹에서의 정보 처리.md",
+                "file": "🌐 WEB 기초/웹 브라우저(Web browser).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.웹에서의 정보 처리"
+              "title": "웹 브라우저(Web browser)"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
-    "git, github/숨김 파일 오류.md",
     "🌐 WEB 기초/1.웹에서의 정보 처리.md",
+    "🌐 WEB 기초/웹 브라우저(Web browser).md",
+    "git, github/숨김 파일 오류.md",
     "git, github",
     "무제.md",
     "파이썬/01 데이터 타입/01 자료형 개요.md",
@@ -278,7 +279,6 @@
     "☕ 자바/예제 15제/10. 3의 배수 합 출력 형식.md",
     "☕ 자바/예제 15제/09. 홀수합 출력 형식.md",
     "☕ 자바/예제 15제/08. 짝수합 출력 형식.md",
-    "☕ 자바/예제 15제/07. 메뉴 선택 프로그램.md",
     "☕ 자바/예제 15제",
     "☕ 자바",
     "☕ 자바/📂 03_객체지향",
