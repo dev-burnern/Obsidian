@@ -35,10 +35,10 @@
     "useInternalPlugins": false
   },
   "1. 대학교 수업": "LiFolder",
-  "파이썬": "🐍",
   "9999.이미지 등": "LiImage",
   "5. 코딩 테스트": "LiAlarmPlus",
-  "자바스크립트": "IcIcons8Javascript",
-  "도커": "IcIcons8부두노동자",
-  "git, github": "IcIcons8힘내"
+  "git, github": "IcIcons8힘내",
+  "Doker": "IcIcons8부두노동자",
+  "Python": "🐍",
+  "JavaScript": "IcIcons8Javascript"
 }
