@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IcIcons8부두노동자",
       "IcIcons8Javascript",
       "LiCoffee",
       "LiAlarmPlus",
-      "LiImage",
-      "🐍"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "파이썬": "🐍",
   "9999.이미지 등": "LiImage",
   "5. 코딩 테스트": "LiAlarmPlus",
-  "자바스크립트": "IcIcons8Javascript"
+  "자바스크립트": "IcIcons8Javascript",
+  "도커": "IcIcons8부두노동자"
 }
