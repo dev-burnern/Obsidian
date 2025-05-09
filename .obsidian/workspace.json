@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git, github/숨김 파일 오류.md",
+                "file": "🌐 WEB 기초/1.웹에서의 정보 처리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "숨김 파일 오류"
+              "title": "1.웹에서의 정보 처리"
             }
           },
           {
@@ -247,8 +247,8 @@
   },
   "active": "7f7bbd1a249b1f8c",
   "lastOpenFiles": [
-    "🌐 WEB 기초/서버.md",
     "git, github/숨김 파일 오류.md",
+    "🌐 WEB 기초/1.웹에서의 정보 처리.md",
     "git, github",
     "무제.md",
     "파이썬/01 데이터 타입/01 자료형 개요.md",
