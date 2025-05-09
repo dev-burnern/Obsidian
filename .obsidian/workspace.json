@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87dfa5c607b15bb9",
+        "id": "44139bd7f361bf0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1319aad26c463d7",
+            "id": "25ab5afcf08cde4c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "9999.이미지 등/preview.gif"
-              },
-              "icon": "lucide-image",
-              "title": "preview"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -211,10 +209,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "25ab5afcf08cde4c",
   "lastOpenFiles": [
-    "9999.이미지 등/Pasted image 20250321141758.png",
     "9999.이미지 등/preview.gif",
+    "9999.이미지 등/Pasted image 20250321141758.png",
     "9999.이미지 등/preview 3.gif",
     "9999.이미지 등/preview 2.gif",
     "9999.이미지 등/preview 1.gif",
