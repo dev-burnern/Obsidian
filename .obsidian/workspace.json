@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f85e3f96f34e7604",
+        "id": "87dfa5c607b15bb9",
         "type": "tabs",
         "children": [
           {
-            "id": "902ad341f891b797",
+            "id": "b1319aad26c463d7",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -17,33 +17,6 @@
               },
               "icon": "lucide-image",
               "title": "preview"
-            }
-          },
-          {
-            "id": "7f7bbd1a249b1f8c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "9999.이미지 등/Pasted image 20250321141758.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250321141758"
-            }
-          },
-          {
-            "id": "835a30112b0cef1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 데이터베이스_기초/📂 2_SQL_기본/📝 2.1_기본_SELECT_문.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "📝 2.1_기본_SELECT_문"
             }
           }
         ]
@@ -238,14 +211,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "902ad341f891b797",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
+    "9999.이미지 등/Pasted image 20250321141758.png",
+    "9999.이미지 등/preview.gif",
     "9999.이미지 등/preview 3.gif",
     "9999.이미지 등/preview 2.gif",
     "9999.이미지 등/preview 1.gif",
-    "9999.이미지 등/preview.gif",
     "🌐 WEB 기초/웹 브라우저(Web browser).md",
-    "9999.이미지 등/Pasted image 20250321141758.png",
     "Excalidraw/Drawing 2025-05-09 15.26.36.excalidraw.md",
     "정리/6. 클래스와 객체.md",
     "정리/교양 정리.md",
