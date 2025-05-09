@@ -11,10 +11,15 @@
             "id": "902ad341f891b797",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🌐 WEB 기초/웹 브라우저(Web browser).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "웹 브라우저(Web browser)"
             }
           },
           {
