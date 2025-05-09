@@ -11,15 +11,12 @@
             "id": "902ad341f891b797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🌐 WEB 기초/웹 브라우저(Web browser).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "9999.이미지 등/preview.gif"
               },
-              "icon": "lucide-file",
-              "title": "웹 브라우저(Web browser)"
+              "icon": "lucide-image",
+              "title": "preview"
             }
           },
           {
@@ -243,15 +240,17 @@
   },
   "active": "902ad341f891b797",
   "lastOpenFiles": [
+    "9999.이미지 등/preview 3.gif",
+    "9999.이미지 등/preview 2.gif",
     "9999.이미지 등/preview 1.gif",
     "9999.이미지 등/preview.gif",
+    "🌐 WEB 기초/웹 브라우저(Web browser).md",
     "9999.이미지 등/Pasted image 20250321141758.png",
     "Excalidraw/Drawing 2025-05-09 15.26.36.excalidraw.md",
     "정리/6. 클래스와 객체.md",
     "정리/교양 정리.md",
     "정리/컴퓨터 구조.md",
     "정리",
-    "🌐 WEB 기초/웹 브라우저(Web browser).md",
     "CSS",
     "HTML5",
     "JavaScript",
@@ -287,9 +286,6 @@
     "9999.이미지 등/Pasted image 20250410174010.png",
     "9999.이미지 등/Pasted image 20250410161526.png",
     "9999.이미지 등/Pasted image 20250410154508.png",
-    "9999.이미지 등/Pasted image 20250410153701.png",
-    "9999.이미지 등/Pasted image 20250410153658.png",
-    "9999.이미지 등/Pasted image 20250409095147.png",
     "무제 1.canvas"
   ]
 }
