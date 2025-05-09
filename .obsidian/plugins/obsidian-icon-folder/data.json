@@ -34,14 +34,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1. 대학교 수업": "LiFolder",
   "9999.이미지 등": "LiImage",
-  "5. 코딩 테스트": "LiAlarmPlus",
   "git, github": "IcIcons8힘내",
   "Doker": "IcIcons8부두노동자",
   "JavaScript": "IcIcons8Javascript",
   "Python": "IcIcons8파이썬",
   "HTML5": "IcIcons8Html",
   "CSS": "IcIcons8Css3",
-  "정리": "LiTrash"
+  "정리": "LiTrash",
+  "정리/1. 대학교 수업": "LiFolder",
+  "정리/5. 코딩 테스트": "LiAlarmPlus"
 }
