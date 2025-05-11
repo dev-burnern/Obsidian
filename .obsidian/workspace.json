@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44139bd7f361bf0a",
+        "id": "c19a7c53f32e9117",
         "type": "tabs",
         "children": [
           {
-            "id": "25ab5afcf08cde4c",
+            "id": "6bf395a5a64fafdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌐 WEB 기초/웹 브라우저(Web browser).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "웹 브라우저(Web browser)"
+              "title": "새 탭"
             }
           }
         ]
@@ -195,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,7 +248,7 @@
       }
     ]
   },
-  "active": "b121a1947a229d5c",
+  "active": "fc4f79f0a0eafe7e",
   "lastOpenFiles": [
     "🌐 WEB 기초/웹 브라우저(Web browser).md",
     "9999.이미지 등/preview.gif",
