@@ -9,6 +9,96 @@
           "ctime": 1746969063519,
           "items": [],
           "title": "0.할일"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "☕ 자바"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "🌐 WEB 기초"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "🐧LINUX"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "🗄️SQL"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "9999.이미지 등"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "정리"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "CSS"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228540,
+          "items": [],
+          "title": "Doker"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228541,
+          "items": [],
+          "title": "Excalidraw"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228541,
+          "items": [],
+          "title": "git, github"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228541,
+          "items": [],
+          "title": "HTML5"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228541,
+          "items": [],
+          "title": "JavaScript"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969228541,
+          "items": [],
+          "title": "Python"
+        },
+        {
+          "type": "file",
+          "ctime": 1746969228541,
+          "path": "재귀 함수.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1746969228541,
+          "path": "백엔드 개발자 로드맵.md",
+          "subpath": "#^-"
         }
       ],
       "title": "sortspec"
