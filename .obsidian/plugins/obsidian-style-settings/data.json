@@ -35,5 +35,8 @@
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
-  "anuppuccin-theme-settings@@anp-bg-fix": false
+  "anuppuccin-theme-settings@@anp-bg-fix": false,
+  "anuppuccin-theme-settings@@h1-line-height": 0.7,
+  "anuppuccin-theme-settings@@anp-h1-divider": true,
+  "anuppuccin-theme-settings@@h2-line-height": 0.7
 }
