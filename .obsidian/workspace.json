@@ -214,46 +214,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "floating": {
-    "id": "a73cef191eca25ac",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b81ad8e21dd3c854",
-        "type": "window",
-        "children": [
-          {
-            "id": "b2056fbfac7892da",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "659968673f76f627",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/AnubisNekhet/AnuPpuccin/blob/main/snippets/extended-colorschemes.css",
-                    "title": "AnuPpuccin/snippets/extended-colorschemes.css at main · AnubisNekhet/AnuPpuccin · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "AnuPpuccin/snippets/extended-colorschemes.css at main · AnubisNekhet/AnuPpuccin · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 488,
-        "y": 1116,
-        "width": 1025,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "659968673f76f627",
+  "active": "25ab5afcf08cde4c",
   "lastOpenFiles": [
     "🌐 WEB 기초/웹 브라우저(Web browser).md",
     "9999.이미지 등/preview.gif",
