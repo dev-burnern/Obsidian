@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IcIcons8자바커피컵로고",
       "LiTrash",
       "IcIcons8Css3",
       "IcIcons8Html",
-      "IcIcons8파이썬",
-      "IcIcons8힘내"
+      "IcIcons8파이썬"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "정리": "LiTrash",
   "정리/1. 대학교 수업": "LiFolder",
   "정리/5. 코딩 테스트": "LiAlarmPlus",
-  "Python": "IcIcons8파이썬"
+  "Python": "IcIcons8파이썬",
+  "☕ 자바": "IcIcons8자바커피컵로고"
 }
