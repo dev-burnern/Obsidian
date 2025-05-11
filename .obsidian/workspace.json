@@ -233,7 +233,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F",
+                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F#",
                     "title": "Account - Obsidian",
                     "mode": "webview"
                   },
