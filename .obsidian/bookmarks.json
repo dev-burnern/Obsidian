@@ -6,12 +6,6 @@
       "items": [
         {
           "type": "group",
-          "ctime": 1746969063519,
-          "items": [],
-          "title": "0.할일"
-        },
-        {
-          "type": "group",
           "ctime": 1746969228540,
           "items": [],
           "title": "☕ 자바"
@@ -99,6 +93,12 @@
           "ctime": 1746969228541,
           "path": "백엔드 개발자 로드맵.md",
           "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1746969338351,
+          "items": [],
+          "title": "0.할일"
         }
       ],
       "title": "sortspec"
