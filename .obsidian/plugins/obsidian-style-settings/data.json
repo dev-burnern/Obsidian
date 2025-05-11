@@ -19,5 +19,6 @@
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": true,
-  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": true
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.3
 }
