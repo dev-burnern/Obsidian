@@ -11,10 +11,15 @@
             "id": "6bf395a5a64fafdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🌐 WEB 기초/웹 브라우저(Web browser).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "웹 브라우저(Web browser)"
             }
           }
         ]
@@ -248,8 +253,9 @@
       }
     ]
   },
-  "active": "fc4f79f0a0eafe7e",
+  "active": "6bf395a5a64fafdd",
   "lastOpenFiles": [
+    "🌐 WEB 기초/1.웹에서의 정보 처리.md",
     "🌐 WEB 기초/웹 브라우저(Web browser).md",
     "9999.이미지 등/preview.gif",
     "9999.이미지 등/Pasted image 20250321141758.png",
@@ -265,7 +271,6 @@
     "HTML5",
     "JavaScript",
     "Doker",
-    "🌐 WEB 기초/1.웹에서의 정보 처리.md",
     "git, github/숨김 파일 오류.md",
     "git, github",
     "무제.md",
