@@ -215,45 +215,6 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "floating": {
-    "id": "a73cef191eca25ac",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f1c8d678a0f1a6c3",
-        "type": "window",
-        "children": [
-          {
-            "id": "68a6acb19115c242",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b121a1947a229d5c",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F#",
-                    "title": "Account - Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Account - Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "60a81592ec131b22",
   "lastOpenFiles": [
     "WEB 기초/웹 브라우저(Web browser).md",
