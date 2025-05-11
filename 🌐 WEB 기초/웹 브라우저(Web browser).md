@@ -2,8 +2,6 @@
 - 예로 크롬, 엣지, 사파리 등이 있음
 - https://steamcommunity.com/sharedfiles/filedetails/?id=
 
-
-
 ##움 윰차카
 ###
 ####
