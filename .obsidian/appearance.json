@@ -3,6 +3,7 @@
   "baseFontSize": 20,
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "snippets"
+    "snippets",
+    "color-extend"
   ]
 }
