@@ -20,5 +20,11 @@
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
-  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.3
+  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.5,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": false,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": false,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-status-bar-select": "none"
 }
