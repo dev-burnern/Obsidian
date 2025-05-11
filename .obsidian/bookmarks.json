@@ -65,12 +65,6 @@
           "title": "JavaScript"
         },
         {
-          "type": "group",
-          "ctime": 1746969228541,
-          "items": [],
-          "title": "Python"
-        },
-        {
           "type": "file",
           "ctime": 1746969228541,
           "path": "재귀 함수.md",
