@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c19a7c53f32e9117",
+        "id": "2827680731ba59b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf395a5a64fafdd",
+            "id": "6f6a5aac3ba6af2d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -209,10 +209,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "6f6a5aac3ba6af2d",
   "lastOpenFiles": [
-    "5. 프로그래밍 언어/sortspec.md.md",
     "2025 global ai bootcamp.md",
+    "5. 프로그래밍 언어/sortspec.md.md",
     "6. 프로그래밍 도구",
     "5. 프로그래밍 언어",
     "WEB 기초/웹 브라우저(Web browser).md",
