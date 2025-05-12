@@ -11,10 +11,15 @@
             "id": "6f6a5aac3ba6af2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "무제"
             }
           }
         ]
@@ -221,8 +226,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "4232f114dd8c212a",
+  "active": "6f6a5aac3ba6af2d",
   "lastOpenFiles": [
+    "0.할일/재귀 함수.md",
+    "무제.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
@@ -248,7 +255,6 @@
     "5. 프로그래밍 언어/HTML5",
     "5. 프로그래밍 언어/JavaScript",
     "6. 프로그래밍 도구/git, github/숨김 파일 오류.md",
-    "무제.md",
     "5. 프로그래밍 언어/Python/01 데이터 타입/01 자료형 개요.md",
     "7. 정리/중간고사 대비/06 프로세스 관리.md",
     "7. 정리/중간고사 대비/05 파일 접근 권한.md",
@@ -265,7 +271,6 @@
     "7. 정리/2. 연산자와 형 변환.md",
     "7. 정리/1. 변수와 자료형.md",
     "7. 정리/예제 15제/15. 별 출력.md",
-    "7. 정리/예제 15제/14. 중첩 for문을 이용한 알파벳 패턴 출력.md",
     "무제.canvas",
     "이미지 등/Pasted image 20250410174010.png",
     "이미지 등/Pasted image 20250410161526.png",
