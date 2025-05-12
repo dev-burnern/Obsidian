@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b71807a4404f18da",
+        "id": "84c1ddf41b1b7396",
         "type": "tabs",
         "children": [
           {
-            "id": "5fddcb30ca2e1fa2",
+            "id": "31b6fb8aaeb381b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "7장_서브쿼리.pdf"
+                "file": "0 할일/2025-05-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "7장_서브쿼리"
+              "icon": "lucide-file",
+              "title": "2025-05-12"
             }
           }
         ]
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7장_서브쿼리.pdf",
+                "file": "0 할일/2025-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "7장_서브쿼리 의 백링크"
+              "title": "2025-05-12 의 백링크"
             }
           },
           {
@@ -161,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7장_서브쿼리.pdf",
+                "file": "0 할일/2025-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "7장_서브쿼리 의 나가는 링크"
+              "title": "2025-05-12 의 나가는 링크"
             }
           },
           {
@@ -190,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7장_서브쿼리.pdf",
+                "file": "0 할일/2025-05-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "7장_서브쿼리 의 개요"
+              "title": "2025-05-12 의 개요"
             }
           }
         ],
@@ -224,10 +227,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "5fddcb30ca2e1fa2",
+  "active": "60a81592ec131b22",
   "lastOpenFiles": [
-    "5. 프로그래밍 언어/Python/재귀 함수.md",
     "7장_서브쿼리.pdf",
+    "5. 프로그래밍 언어/Python/재귀 함수.md",
     "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
     "copilot-conversations",
     "0 할일/2025-05-12.md",
