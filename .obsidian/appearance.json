@@ -4,8 +4,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "snippets",
-    "color-extend",
-    "custom-background"
+    "color-extend"
   ],
   "accentColor": ""
 }
