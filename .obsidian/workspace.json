@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트 로드맵.md",
+                "file": "0 할일/2025-05-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "프론트 로드맵"
+              "title": "2025-05-12"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,67 +89,6 @@
         "id": "e37f46b07f5d3613",
         "type": "tabs",
         "children": [
-          {
-            "id": "8a28a0222e9dae86",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "백링크"
-            }
-          },
-          {
-            "id": "3e8d6342de2f6cee",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "나가는 링크"
-            }
-          },
-          {
-            "id": "39ad98748e976036",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "태그"
-            }
-          },
-          {
-            "id": "2b1d189b9a563845",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "프론트 로드맵.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "프론트 로드맵 의 개요"
-            }
-          },
           {
             "id": "107af6204156cb3a",
             "type": "leaf",
@@ -200,8 +139,7 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,8 +163,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "2b1d189b9a563845",
+  "active": "c4eff5ad2a722c55",
   "lastOpenFiles": [
+    "프론트 로드맵.md",
+    "0 할일/2025-05-12.md",
+    "0 할일",
     "9999.이미지 등/Pasted image 20250512122131.png",
     "9999.이미지 등/Pasted image 20250512122423.png",
     "이미지 등/4주차-1-정보처리산업기사필기(주기억장치／레지스터／캐시 메로리／가상메모리／,보조기억장치／입출력시스템 등)-2025／03／25 (2).pdf",
@@ -240,9 +181,7 @@
     "이미지 등/Pasted image 20250403152609.png",
     "이미지 등/Pasted image 20250401210525.png",
     "이미지 등/Pasted image 20250330195530.png",
-    "이미지 등/Pasted image 20250330195451.png",
     "백엔드 로드맵.md",
-    "프론트 로드맵.md",
     "9999.이미지 등",
     "20. 옵시디언 사용법/토글.md",
     "7. 정리/예제 15제/01. 두 실수의 사칙연산.md",
@@ -250,13 +189,12 @@
     "BMO/Profiles/BMO.md",
     "20. 옵시디언 사용법",
     "무제.md",
-    "0.할일/재귀 함수.md",
+    "0 할일/재귀 함수.md",
     "BMO/Profiles",
     "BMO",
     "node.js",
     "2025 global ai bootcamp.md",
     "5. 프로그래밍 언어/sortspec.md.md",
-    "6. 프로그래밍 도구",
     "WEB 기초/웹 브라우저(Web browser).md",
     "WEB 기초/1.웹에서의 정보 처리.md",
     "Excalidraw/Drawing 2025-05-09 15.26.36.excalidraw.md",

@@ -44,8 +44,8 @@
   "6. 프로그래밍 도구/git, github": "IcIcons8힘내",
   "node.js": "SiNodedotjs",
   "Excalidraw": "SiExcalidraw",
-  "0.할일": "SiTodoist",
   "WEB 기초": "SiVisualbasic",
   "5. 프로그래밍 언어": "LiLanguages",
-  "6. 프로그래밍 도구": "RiToolsFill"
+  "6. 프로그래밍 도구": "RiToolsFill",
+  "0 할일": "SiTodoist"
 }
