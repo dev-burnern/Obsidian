@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiNodedotjs",
       "🐧",
       "IcIcons8자바커피컵로고",
       "LiTrash",
-      "IcIcons8Css3",
-      "IcIcons8Html"
+      "IcIcons8Css3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "5. 프로그래밍 언어/CSS": "IcIcons8Css3",
   "5. 프로그래밍 언어/HTML5": "IcIcons8Html",
   "6. 프로그래밍 도구/Doker": "IcIcons8부두노동자",
-  "6. 프로그래밍 도구/git, github": "IcIcons8힘내"
+  "6. 프로그래밍 도구/git, github": "IcIcons8힘내",
+  "node.js": "SiNodedotjs"
 }
