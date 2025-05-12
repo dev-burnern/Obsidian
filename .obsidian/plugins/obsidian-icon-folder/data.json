@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiToolsFill",
+      "LiLanguages",
       "🗺",
       "SiTodoist",
-      "SiExcalidraw",
-      "LiImages",
-      "SiNodedotjs"
+      "SiExcalidraw"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,7 @@
   "이미지 등": "LiImages",
   "Excalidraw": "SiExcalidraw",
   "0.할일": "SiTodoist",
-  "WEB 기초": "🗺"
+  "WEB 기초": "🗺",
+  "5. 프로그래밍 언어": "LiLanguages",
+  "6. 프로그래밍 도구": "RiToolsFill"
 }
