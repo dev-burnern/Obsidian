@@ -140,7 +140,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision"
+        "vision",
+        "websearch"
       ]
     },
     {
