@@ -11,12 +11,15 @@
             "id": "31b6fb8aaeb381b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "javascript.pdf"
+                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "javascript"
+              "icon": "lucide-file",
+              "title": "재귀 함수"
             }
           }
         ]
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript.pdf",
+                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "javascript 의 백링크"
+              "title": "재귀 함수 의 백링크"
             }
           },
           {
@@ -161,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript.pdf",
+                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "javascript 의 나가는 링크"
+              "title": "재귀 함수 의 나가는 링크"
             }
           },
           {
@@ -190,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript.pdf",
+                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "javascript 의 개요"
+              "title": "재귀 함수 의 개요"
             }
           }
         ],
@@ -226,8 +229,9 @@
   },
   "active": "31b6fb8aaeb381b6",
   "lastOpenFiles": [
-    "WEB 기초/1.웹에서의 정보 처리.md",
+    "5. 프로그래밍 언어/Python/02 문자열/02 문자열 출력.md",
     "javascript.pdf",
+    "WEB 기초/1.웹에서의 정보 처리.md",
     "7장_서브쿼리.pdf",
     "프론트 로드맵.md",
     "0 할일/2025-05-12.md",
