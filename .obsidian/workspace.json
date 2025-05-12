@@ -11,10 +11,15 @@
             "id": "5fddcb30ca2e1fa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "copilot-conversations/백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245"
             }
           }
         ]
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "copilot-conversations/백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245 의 백링크"
             }
           },
           {
@@ -158,11 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "copilot-conversations/백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245 의 나가는 링크"
             }
           },
           {
@@ -186,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "copilot-conversations/백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245 의 개요"
             }
           }
         ],
@@ -219,8 +227,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "4232f114dd8c212a",
+  "active": "5fddcb30ca2e1fa2",
   "lastOpenFiles": [
+    "copilot-conversations/백엔드_개발자가_되기_위한_로드맵을_노트_형식으로_작성해줘@20250512_124245.md",
+    "copilot-conversations",
     "0 할일/2025-05-12.md",
     "프론트 로드맵.md",
     "0 할일",
@@ -248,7 +258,6 @@
     "0 할일/재귀 함수.md",
     "BMO/Profiles",
     "BMO",
-    "node.js",
     "2025 global ai bootcamp.md",
     "5. 프로그래밍 언어/sortspec.md.md",
     "WEB 기초/웹 브라우저(Web browser).md",
@@ -266,7 +275,6 @@
     "7. 정리/중간고사 대비/02 디렉터리, 파일.md",
     "7. 정리/4. 메서드.md",
     "conflict-files-obsidian-git.md",
-    "5. 프로그래밍 언어/🗄️SQL/📂 2_SQL_기본/📝 2.1_기본_SELECT_문.md",
     "무제.canvas",
     "무제 1.canvas"
   ]
