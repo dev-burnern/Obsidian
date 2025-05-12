@@ -204,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
@@ -217,11 +218,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "publish:변경사항 게재": false,
-      "obsidian42-brat:BRAT": false,
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "62fd41fe4e2ec7bb",
+  "active": "6f6a5aac3ba6af2d",
   "lastOpenFiles": [
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
