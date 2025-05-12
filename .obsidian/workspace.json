@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +228,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "5fddcb30ca2e1fa2",
   "lastOpenFiles": [
     "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
     "copilot-conversations",
