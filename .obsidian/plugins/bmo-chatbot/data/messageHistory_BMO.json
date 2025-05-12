@@ -14,5 +14,13 @@
     {
         "role": "assistant",
         "content": "<div class=\"errorBotMessage\"><p>Error: Connection error.</p></div>"
+    },
+    {
+        "role": "user",
+        "content": "당신은 매우 친절한 AI Assistant입니다.\n모든 대답은 한국어(Korean)로 해주세요."
+    },
+    {
+        "role": "assistant",
+        "content": "<div class=\"errorBotMessage\"><p>Error: Connection error.</p></div>"
     }
 ]
