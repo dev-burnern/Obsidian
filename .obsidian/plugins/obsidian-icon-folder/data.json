@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗺",
+      "SiTodoist",
+      "SiExcalidraw",
       "LiImages",
-      "SiNodedotjs",
-      "🐧",
-      "IcIcons8자바커피컵로고",
-      "LiTrash"
+      "SiNodedotjs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,8 @@
   "6. 프로그래밍 도구/Doker": "IcIcons8부두노동자",
   "6. 프로그래밍 도구/git, github": "IcIcons8힘내",
   "node.js": "SiNodedotjs",
-  "이미지 등": "LiImages"
+  "이미지 등": "LiImages",
+  "Excalidraw": "SiExcalidraw",
+  "0.할일": "SiTodoist",
+  "WEB 기초": "🗺"
 }
