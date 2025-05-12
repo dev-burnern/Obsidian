@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2827680731ba59b0",
+        "id": "d4bfbd369487d574",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6a5aac3ba6af2d",
+            "id": "c4eff5ad2a722c55",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "9999.이미지 등/Pasted image 20250512122131.png"
+                "file": "프론트 로드맵.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250512122131"
+              "icon": "lucide-file",
+              "title": "프론트 로드맵"
             }
           }
         ]
@@ -222,10 +225,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "6f6a5aac3ba6af2d",
+  "active": "c4eff5ad2a722c55",
   "lastOpenFiles": [
-    "9999.이미지 등/Pasted image 20250512122423.png",
     "9999.이미지 등/Pasted image 20250512122131.png",
+    "9999.이미지 등/Pasted image 20250512122423.png",
     "이미지 등/4주차-1-정보처리산업기사필기(주기억장치／레지스터／캐시 메로리／가상메모리／,보조기억장치／입출력시스템 등)-2025／03／25 (2).pdf",
     "이미지 등/5주차-1-컴퓨터구조와 운영체제(입출력시스템의개요／인터럽트와DMA／입출력장치와 인터페이스 등)-2025／04／03.pdf",
     "이미지 등/preview.gif",
