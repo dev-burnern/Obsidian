@@ -186,13 +186,13 @@
             }
           },
           {
-            "id": "62fd41fe4e2ec7bb",
+            "id": "4232f114dd8c212a",
             "type": "leaf",
             "state": {
-              "type": "chatbot-view",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "bot",
-              "title": "BMO Chatbot"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -221,7 +221,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "6f6a5aac3ba6af2d",
+  "active": "4232f114dd8c212a",
   "lastOpenFiles": [
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
