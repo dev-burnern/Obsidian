@@ -11,10 +11,15 @@
             "id": "5fddcb30ca2e1fa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 할일/재귀 함수.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "재귀 함수"
             }
           }
         ]
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 할일/재귀 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "재귀 함수 의 백링크"
             }
           },
           {
@@ -158,11 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 할일/재귀 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "재귀 함수 의 나가는 링크"
             }
           },
           {
@@ -186,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0 할일/재귀 함수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "재귀 함수 의 개요"
             }
           }
         ],
