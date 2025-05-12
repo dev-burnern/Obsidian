@@ -184,13 +184,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "62fd41fe4e2ec7bb",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {},
+              "icon": "bot",
+              "title": "BMO Chatbot"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 398
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +221,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "62fd41fe4e2ec7bb",
   "lastOpenFiles": [
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
