@@ -186,13 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "백엔드_개발자가_되기_위한_로드맵 의 개요"
+              "title": "개요"
             }
           }
         ],
@@ -220,7 +219,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "5fddcb30ca2e1fa2",
   "lastOpenFiles": [
     "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
     "copilot-conversations",
