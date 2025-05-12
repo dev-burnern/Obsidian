@@ -23,7 +23,7 @@
   "temperature": 0.1,
   "maxTokens": 1000,
   "contextTurns": 15,
-  "userSystemPrompt": "",
+  "userSystemPrompt": "모든 답변을 한국어로 해주세요.",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
