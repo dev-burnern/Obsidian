@@ -46,7 +46,7 @@
     {
       "name": "copilot-plus-flash",
       "provider": "copilot-plus",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "plusExclusive": true,
@@ -57,7 +57,7 @@
     {
       "name": "gpt-4.1",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -67,7 +67,7 @@
     {
       "name": "gpt-4.1-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -77,7 +77,7 @@
     {
       "name": "gpt-4.1-nano",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -87,7 +87,7 @@
     {
       "name": "o4-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -97,7 +97,7 @@
     {
       "name": "claude-3-5-sonnet-latest",
       "provider": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -107,31 +107,31 @@
     {
       "name": "claude-3-5-haiku-latest",
       "provider": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "grok-3-beta",
       "provider": "xai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "grok-3-mini-beta",
       "provider": "xai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "command-r",
       "provider": "cohereai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "command-r-plus",
       "provider": "cohereai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
@@ -155,19 +155,19 @@
     {
       "name": "azure-openai",
       "provider": "azure openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "deepseek-chat",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "deepseek-reasoner",
       "provider": "deepseek",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
