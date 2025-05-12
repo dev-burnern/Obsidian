@@ -11,15 +11,12 @@
             "id": "5fddcb30ca2e1fa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "7장_서브쿼리.pdf"
               },
-              "icon": "lucide-file",
-              "title": "재귀 함수"
+              "icon": "lucide-file-text",
+              "title": "7장_서브쿼리"
             }
           }
         ]
@@ -145,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
+                "file": "7장_서브쿼리.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "재귀 함수 의 백링크"
+              "title": "7장_서브쿼리 의 백링크"
             }
           },
           {
@@ -164,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
+                "file": "7장_서브쿼리.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "재귀 함수 의 나가는 링크"
+              "title": "7장_서브쿼리 의 나가는 링크"
             }
           },
           {
@@ -193,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. 프로그래밍 언어/Python/재귀 함수.md",
+                "file": "7장_서브쿼리.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "재귀 함수 의 개요"
+              "title": "7장_서브쿼리 의 개요"
             }
           }
         ],
@@ -227,8 +224,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "4232f114dd8c212a",
+  "active": "5fddcb30ca2e1fa2",
   "lastOpenFiles": [
+    "5. 프로그래밍 언어/Python/재귀 함수.md",
+    "7장_서브쿼리.pdf",
     "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
     "copilot-conversations",
     "0 할일/2025-05-12.md",
@@ -255,9 +254,7 @@
     "BMO/Profiles/BMO.md",
     "20. 옵시디언 사용법",
     "무제.md",
-    "5. 프로그래밍 언어/Python/재귀 함수.md",
     "BMO/Profiles",
-    "BMO",
     "2025 global ai bootcamp.md",
     "5. 프로그래밍 언어/sortspec.md.md",
     "WEB 기초/웹 브라우저(Web browser).md",
@@ -274,7 +271,6 @@
     "7. 정리/중간고사 대비/03 문서 편집.md",
     "7. 정리/중간고사 대비/02 디렉터리, 파일.md",
     "7. 정리/4. 메서드.md",
-    "conflict-files-obsidian-git.md",
     "무제.canvas",
     "무제 1.canvas"
   ]
