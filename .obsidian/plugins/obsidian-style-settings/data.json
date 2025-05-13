@@ -43,5 +43,6 @@
   "anuppuccin-theme-settings@@h3-line-height": 0.5,
   "anuppuccin-theme-settings@@anp-h3-divider": true,
   "anuppuccin-theme-settings@@anp-h4-divider": true,
-  "anuppuccin-theme-settings@@h4-line-height": 0.5
+  "anuppuccin-theme-settings@@h4-line-height": 0.5,
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true
 }
