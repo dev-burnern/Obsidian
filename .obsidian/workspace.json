@@ -120,16 +120,6 @@
             }
           },
           {
-            "id": "82182f2dc5bb545d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "4232f114dd8c212a",
             "type": "leaf",
             "state": {
@@ -203,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +217,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "31b6fb8aaeb381b6",
+  "active": "fc4f79f0a0eafe7e",
   "lastOpenFiles": [
     "5. 프로그래밍 언어/HTML5/H1~H6 태그.md",
     "5. 프로그래밍 언어/HTML5/p 태그.md",
