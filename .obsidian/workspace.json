@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/HTML5/p 태그.md",
+                "file": "WEB 기초/1.웹에서의 정보 처리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "p 태그"
+              "title": "1.웹에서의 정보 처리"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "31b6fb8aaeb381b6",
   "lastOpenFiles": [
-    "0 할일/2025-05-12.md",
+    "WEB 기초/웹 브라우저(Web browser).md",
+    "WEB 기초/1.웹에서의 정보 처리.md",
     "5. 프로그래밍 언어/HTML5/p 태그.md",
+    "0 할일/2025-05-12.md",
     "5. 프로그래밍 언어/HTML5/H1~H6 태그.md",
     "5. 프로그래밍 언어/HTML5/title 태그.md",
     "5. 프로그래밍 언어/HTML5/!DOCTYPE 선언.md",
@@ -230,7 +232,6 @@
     "5. 프로그래밍 언어/Python/재귀 함수.md",
     "5. 프로그래밍 언어/Python/02 문자열/02 문자열 출력.md",
     "javascript.pdf",
-    "WEB 기초/1.웹에서의 정보 처리.md",
     "7장_서브쿼리.pdf",
     "프론트 로드맵.md",
     "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
@@ -259,7 +260,6 @@
     "무제.md",
     "2025 global ai bootcamp.md",
     "5. 프로그래밍 언어/sortspec.md.md",
-    "WEB 기초/웹 브라우저(Web browser).md",
     "Excalidraw/Drawing 2025-05-09 15.26.36.excalidraw.md",
     "7. 정리/6. 클래스와 객체.md",
     "7. 정리/교양 정리.md",
