@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/HTML5/옵셔널 태그.md",
+                "file": "5. 프로그래밍 언어/HTML5/무제.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "옵셔널 태그"
+              "title": "무제"
             }
           }
         ]
@@ -217,10 +217,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "4232f114dd8c212a",
+  "active": "31b6fb8aaeb381b6",
   "lastOpenFiles": [
-    "5. 프로그래밍 언어/HTML5/em 태그.md",
     "5. 프로그래밍 언어/HTML5/옵셔널 태그.md",
+    "5. 프로그래밍 언어/HTML5/무제.md",
+    "5. 프로그래밍 언어/HTML5/em 태그.md",
     "5. 프로그래밍 언어/HTML5/strong 태그.md",
     "5. 프로그래밍 언어/HTML5/i 태그.md",
     "5. 프로그래밍 언어/HTML5/p 태그.md",
@@ -264,7 +265,6 @@
     "20. 옵시디언 사용법",
     "무제.md",
     "2025 global ai bootcamp.md",
-    "5. 프로그래밍 언어/sortspec.md.md",
     "무제.canvas",
     "무제 1.canvas"
   ]
