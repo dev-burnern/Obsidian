@@ -1,0 +1,6 @@
+"구분","바이트 스트림","문자 스트림"
+"처리 단위","1바이트","2바이트(유니코드 문자)"
+"최상위 클래스","InputStream / OutputStream","Reader / Writer"
+"주 용도","이진 데이터(이미지, 오디오 등)","텍스트 데이터(문자 파일)"
+"인코딩 처리","직접 처리 필요","자동 인코딩/디코딩 지원"
+"예시 클래스","FileInputStream, FileOutputStream 등","FileReader, FileWriter 등"
