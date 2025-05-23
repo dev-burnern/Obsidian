@@ -11,12 +11,15 @@
             "id": "31b6fb8aaeb381b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/3. JavaScript/javascript.pdf"
+                "file": "개발 문서 양식/요구사항_명세서.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "javascript"
+              "icon": "lucide-file",
+              "title": "요구사항_명세서"
             }
           }
         ]
@@ -217,7 +220,20 @@
   },
   "active": "60a81592ec131b22",
   "lastOpenFiles": [
-    "무제",
+    "개발 문서 양식/회의록_상태보고서.md",
+    "개발 문서 양식/프로젝트_헌장_제안서.md",
+    "개발 문서 양식/프로세스정의서_업무흐름도.md",
+    "개발 문서 양식/테스트케이스_테스트플랜.md",
+    "개발 문서 양식/이슈트래커_위험관리계획.md",
+    "개발 문서 양식/용어사전.md",
+    "개발 문서 양식/ERD_공통코드정의.md",
+    "개발 문서 양식/API_명세서.md",
+    "백엔드 로드맵.md",
+    "무제 1.md",
+    "7장_서브쿼리.pdf",
+    "5. 프로그래밍 언어/3. JavaScript/javascript.pdf",
+    "무제.md",
+    "개발 문서 양식",
     "5. 프로그래밍 언어/6. SQL/무제.md",
     "5. 프로그래밍 언어/LINUX/다운로드 (1).csv",
     "5. 프로그래밍 언어/Python/02 문자열/다운로드 (1).csv",
@@ -231,19 +247,11 @@
     "5. 프로그래밍 언어/1. HTML5/i 태그.md",
     "5. 프로그래밍 언어/1. HTML5/p 태그.md",
     "5. 프로그래밍 언어/1. HTML5/b 태그.md",
-    "무제 1.md",
     "WEB 기초/1.웹에서의 정보 처리.md",
     "WEB 기초/웹 브라우저(Web browser).md",
     "0 할일/2025-05-12.md",
     "5. 프로그래밍 언어/1. HTML5/title 태그.md",
     "5. 프로그래밍 언어/6. SQL/📂 2_SQL_기본/📝 2.1_기본_SELECT_문.md",
-    "5. 프로그래밍 언어/6. SQL/📂 1_관계형_데이터베이스_개요/📝 1.1_관계형_데이터베이스_개념.md",
-    "5. 프로그래밍 언어/Python/재귀 함수.md",
-    "5. 프로그래밍 언어/Python/02 문자열/02 문자열 출력.md",
-    "5. 프로그래밍 언어/3. JavaScript/javascript.pdf",
-    "7장_서브쿼리.pdf",
-    "프론트 로드맵.md",
-    "copilot-conversations/백엔드_개발자가_되기_위한_로드맵.md",
     "copilot-conversations",
     "0 할일",
     "9999.이미지 등/Pasted image 20250512122131.png",
@@ -252,17 +260,12 @@
     "이미지 등/5주차-1-컴퓨터구조와 운영체제(입출력시스템의개요／인터럽트와DMA／입출력장치와 인터페이스 등)-2025／04／03.pdf",
     "이미지 등/preview.gif",
     "이미지 등/Pasted image 20250429035253.png",
-    "이미지 등/6주차-1-컴퓨터구조와 운영체제(운영체제개요에서기능／구조와 발전 과정그리고프로세스관리에서스로세스상태／PCB／문맥 교환스레드와멀티스레딩CPU스케줄링등)-2025／04／10.pdf",
     "이미지 등/Pasted image 20250403161750.png",
     "이미지 등/Pasted Image 20250403161251_856.png",
     "이미지 등/Pasted image 20250403152639.png",
     "이미지 등/Pasted image 20250403152609.png",
     "이미지 등/Pasted image 20250401210525.png",
     "이미지 등/Pasted image 20250330195530.png",
-    "백엔드 로드맵.md",
-    "20. 옵시디언 사용법/토글.md",
-    "7. 정리/예제 15제/01. 두 실수의 사칙연산.md",
-    "BMO/Profiles/BMO.md",
     "무제.canvas",
     "무제 1.canvas"
   ]
