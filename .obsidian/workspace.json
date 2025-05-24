@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/3. ul_ol_li.md",
+                "file": "5. 프로그래밍 언어/2. CSS/CSS_구조.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. ul_ol_li"
+              "title": "CSS_구조"
             }
           }
         ]
@@ -207,13 +207,18 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "2594d65c8d868d79",
   "lastOpenFiles": [
+    "5. 프로그래밍 언어/2. CSS/1. 기본문법/2. 속성.md",
+    "5. 프로그래밍 언어/2. CSS/1. 기본문법/1. 선택자.md",
+    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/3. ul_ol_li.md",
+    "5. 프로그래밍 언어/2. CSS/1. 기본문법/0. README.md",
+    "5. 프로그래밍 언어/2. CSS/1. 기본문법",
+    "5. 프로그래밍 언어/2. CSS/CSS_구조.md",
     "5. 프로그래밍 언어/1. HTML5/6. 기타/3. style.md",
     "5. 프로그래밍 언어/1. HTML5/HTML5_구조.md",
     "5. 프로그래밍 언어/1. HTML5/6. 기타/2. script.md",
     "5. 프로그래밍 언어/1. HTML5/6. 기타/1. link.md",
-    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/3. ul_ol_li.md",
     "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/2. img.md",
     "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/1. a.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/6. em.md",
@@ -231,10 +236,6 @@
     "5. 프로그래밍 언어/1. HTML5/1. 문서구조/6. body.md",
     "5. 프로그래밍 언어/1. HTML5/1. 문서구조/0. README.md",
     "5. 프로그래밍 언어/1. HTML5/5. 폼/6. label.md",
-    "5. 프로그래밍 언어/1. HTML5/5. 폼/5. button.md",
-    "5. 프로그래밍 언어/1. HTML5/5. 폼/4. select_option.md",
-    "5. 프로그래밍 언어/1. HTML5/5. 폼/3. textarea.md",
-    "5. 프로그래밍 언어/1. HTML5/5. 폼/2. input.md",
     "5. 프로그래밍 언어/1. HTML5/기타",
     "5. 프로그래밍 언어/1. HTML5/폼",
     "5. 프로그래밍 언어/1. HTML5/시맨틱",
@@ -244,7 +245,6 @@
     "5. 프로그래밍 언어/1. HTML5/6. 기타",
     "5. 프로그래밍 언어/1. HTML5/5. 폼",
     "5. 프로그래밍 언어/1. HTML5/4. 시맨틱",
-    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록",
     "9999.이미지 등/Pasted image 20250512122131.png",
     "9999.이미지 등/Pasted image 20250512122423.png",
     "이미지 등/preview.gif",
