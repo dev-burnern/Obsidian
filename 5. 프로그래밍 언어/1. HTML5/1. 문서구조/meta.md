@@ -1,0 +1,16 @@
+# <meta>
+
+문서 정보(문자셋, 뷰포트 등)를 지정하는 태그입니다.
+
+```html
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+---
+
+## 실무 팁
+- charset, viewport, description, keywords 등 다양한 목적의 meta 태그를 적절히 활용.
+- SEO, 소셜 미디어(og:*, twitter:*) 등 외부 서비스 연동 시 필수.
+- 중복된 meta 태그는 피하고, 각 목적에 맞게 명확히 작성.
+- head 태그 내 상단에 위치시키는 것이 표준 권장.
