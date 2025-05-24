@@ -1,9 +1,0 @@
-# <script>
-
-자바스크립트 코드를 문서에 삽입할 때 사용하는 태그입니다.
-
-```html
-<script>
-  alert('Hello!');
-</script>
-```
