@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/2. img.md",
+                "file": "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/3. ul_ol_li.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. img"
+              "title": "3. ul_ol_li"
             }
           }
         ]
@@ -209,9 +209,9 @@
   },
   "active": "2594d65c8d868d79",
   "lastOpenFiles": [
+    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/2. img.md",
     "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/1. a.md",
     "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/3. ul_ol_li.md",
-    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/2. img.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/6. em.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/5. i.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/4. strong.md",
