@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 문서 양식/개발_가이드_컨벤션.md",
+                "file": "5. 프로그래밍 언어/1. HTML5/HTML5_구조.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "개발_가이드_컨벤션"
+              "title": "HTML5_구조"
             }
           }
         ]
@@ -208,8 +208,9 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "31b6fb8aaeb381b6",
   "lastOpenFiles": [
+    "개발 문서 양식/개발_가이드_컨벤션.md",
     "5. 프로그래밍 언어/1. HTML5/기타/style.md",
     "5. 프로그래밍 언어/1. HTML5/기타/link.md",
     "5. 프로그래밍 언어/1. HTML5/기타/script.md",
@@ -239,7 +240,6 @@
     "5. 프로그래밍 언어/1. HTML5/링크_미디어_목록",
     "5. 프로그래밍 언어/1. HTML5/텍스트/em.md",
     "5. 프로그래밍 언어/1. HTML5/텍스트/i.md",
-    "5. 프로그래밍 언어/1. HTML5/텍스트/strong.md",
     "5. 프로그래밍 언어/1. HTML5/텍스트",
     "5. 프로그래밍 언어/1. HTML5/문서구조",
     "7장_서브쿼리.pdf",
