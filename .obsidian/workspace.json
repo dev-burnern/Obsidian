@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/1. HTML5/title 태그.md",
+                "file": "5. 프로그래밍 언어/1. HTML5/00_태그별_역할_폴더구조.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "title 태그"
+              "title": "00_태그별_역할_폴더구조"
             }
           }
         ]
@@ -120,16 +120,6 @@
             }
           },
           {
-            "id": "4232f114dd8c212a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "2ccfd24b5ec69f8f",
             "type": "leaf",
             "state": {
@@ -193,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,6 +211,7 @@
   "active": "31b6fb8aaeb381b6",
   "lastOpenFiles": [
     "5. 프로그래밍 언어/1. HTML5/00_태그별_역할_폴더구조.md",
+    "5. 프로그래밍 언어/1. HTML5/title 태그.md",
     "5. 프로그래밍 언어/1. HTML5/ul,ol 태그.md",
     "개발 문서 양식/개발_가이드_컨벤션.md",
     "5. 프로그래밍 언어/1. HTML5/body 태그.md",
@@ -251,7 +242,6 @@
     "5. 프로그래밍 언어/LINUX/다운로드 (1).csv",
     "5. 프로그래밍 언어/Python/02 문자열/다운로드 (1).csv",
     "5. 프로그래밍 언어/Python/다운로드 (1).csv",
-    "5. 프로그래밍 언어/1. HTML5/1. !DOCTYPE 선언.md",
     "copilot-conversations",
     "0 할일",
     "9999.이미지 등/Pasted image 20250512122131.png",
