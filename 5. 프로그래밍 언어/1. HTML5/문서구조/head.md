@@ -8,3 +8,11 @@
   <title>문서 제목</title>
 </head>
 ```
+
+---
+
+## 실무 팁
+- head 태그는 문서당 한 번만 사용(중복 금지).
+- meta, title, link, script 등은 head 내부에 위치해야 함.
+- SEO, 소셜 미디어, 접근성 등 다양한 목적의 메타데이터를 충분히 활용.
+- head 태그 내 요소의 순서(특히 charset, title)는 표준 권장 순서에 따르는 것이 좋음.
