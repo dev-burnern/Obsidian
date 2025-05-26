@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/자바/주석(comment).md",
+                "file": "5. 프로그래밍 언어/자바/자바란.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "주석(comment)"
+              "title": "자바란"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "2594d65c8d868d79",
   "lastOpenFiles": [
-    "개발 문서 양식/용어사전.md",
     "5. 프로그래밍 언어/자바/주석(comment).md",
+    "5. 프로그래밍 언어/자바/자바란.md",
+    "개발 문서 양식/용어사전.md",
     "개발 문서 양식/릴리즈_배포문서.md",
     "개발 문서 양식/기획서_화면정의서.md",
     "개발 문서 양식/개발_가이드_컨벤션.md",
@@ -234,7 +235,6 @@
     "5. 프로그래밍 언어/1. HTML5/기타/style.md",
     "5. 프로그래밍 언어/1. HTML5/기타/link.md",
     "5. 프로그래밍 언어/1. HTML5/기타/script.md",
-    "5. 프로그래밍 언어/1. HTML5/기타/README.md",
     "5. 프로그래밍 언어/1. HTML5/기타",
     "5. 프로그래밍 언어/1. HTML5/폼",
     "5. 프로그래밍 언어/1. HTML5/시맨틱",
