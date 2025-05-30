@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "showLineNumber": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "propertiesInDocument": "visible"
 }
