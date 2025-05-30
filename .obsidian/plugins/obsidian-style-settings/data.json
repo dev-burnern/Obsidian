@@ -39,10 +39,10 @@
   "anuppuccin-theme-settings@@h1-line-height": 0.5,
   "anuppuccin-theme-settings@@anp-h1-divider": false,
   "anuppuccin-theme-settings@@h2-line-height": 0.5,
-  "anuppuccin-theme-settings@@anp-h2-divider": true,
+  "anuppuccin-theme-settings@@anp-h2-divider": false,
   "anuppuccin-theme-settings@@h3-line-height": 0.5,
-  "anuppuccin-theme-settings@@anp-h3-divider": true,
-  "anuppuccin-theme-settings@@anp-h4-divider": true,
+  "anuppuccin-theme-settings@@anp-h3-divider": false,
+  "anuppuccin-theme-settings@@anp-h4-divider": false,
   "anuppuccin-theme-settings@@h4-line-height": 0.5,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true
 }
