@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/1. HTML5/2. 텍스트/1. h1~h6.md",
+                "file": "5. 프로그래밍 언어/1. HTML5/2. 텍스트/4. strong.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. h1~h6"
+              "title": "4. strong"
             }
           }
         ]
@@ -209,13 +209,13 @@
   },
   "active": "2594d65c8d868d79",
   "lastOpenFiles": [
-    "5. 프로그래밍 언어/1. HTML5/2. 텍스트/2. p.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/3. b.md",
+    "5. 프로그래밍 언어/1. HTML5/2. 텍스트/2. p.md",
+    "5. 프로그래밍 언어/1. HTML5/2. 텍스트/1. h1~h6.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/4. strong.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/5. i.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/6. em.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/0. README.md",
-    "5. 프로그래밍 언어/1. HTML5/2. 텍스트/1. h1~h6.md",
     "5. 프로그래밍 언어/1. HTML5/1. 문서구조/6. body.md",
     "5. 프로그래밍 언어/1. HTML5/1. 문서구조/5. title.md",
     "5. 프로그래밍 언어/1. HTML5/1. 문서구조/1. DOCTYPE.md",
