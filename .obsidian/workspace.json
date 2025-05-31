@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/1. HTML5/5. 폼/0. README.md",
+                "file": "5. 프로그래밍 언어/1. HTML5/5. 폼/6. label.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. README"
+              "title": "6. label"
             }
           }
         ]
@@ -209,6 +209,15 @@
   },
   "active": "2594d65c8d868d79",
   "lastOpenFiles": [
+    "5. 프로그래밍 언어/1. HTML5/HTML5_구조.md",
+    "5. 프로그래밍 언어/1. HTML5/0. 학습가이드.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/6. label.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/5. button.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/4. select_option.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/3. textarea.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/2. input.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/1. form.md",
+    "5. 프로그래밍 언어/1. HTML5/5. 폼/0. README.md",
     "5. 프로그래밍 언어/1. HTML5/4. 시맨틱/7. footer.md",
     "5. 프로그래밍 언어/1. HTML5/4. 시맨틱/6. aside.md",
     "5. 프로그래밍 언어/1. HTML5/4. 시맨틱/5. article.md",
@@ -226,15 +235,6 @@
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/4. strong.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/3. b.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/2. p.md",
-    "5. 프로그래밍 언어/1. HTML5/2. 텍스트/1. h1~h6.md",
-    "5. 프로그래밍 언어/1. HTML5/2. 텍스트/0. README.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/6. body.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/5. title.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/1. DOCTYPE.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/2. html.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/3. head.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/4. meta.md",
-    "5. 프로그래밍 언어/1. HTML5/1. 문서구조/0. README.md",
     "5. 프로그래밍 언어/3. JavaScript/javascript.pdf",
     "5. 프로그래밍 언어/3.JavaScript/6. 예제와 실습",
     "5. 프로그래밍 언어/3.JavaScript/5. DOM과 이벤트",
