@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/0. README.md",
+                "file": "5. 프로그래밍 언어/1. HTML5/4. 시맨틱/0. README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -209,6 +209,8 @@
   },
   "active": "2594d65c8d868d79",
   "lastOpenFiles": [
+    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/3. ul_ol_li.md",
+    "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/2. img.md",
     "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/1. a.md",
     "5. 프로그래밍 언어/1. HTML5/3. 링크_미디어_목록/0. README.md",
     "5. 프로그래밍 언어/1. HTML5/2. 텍스트/6. em.md",
@@ -234,8 +236,6 @@
     "5. 프로그래밍 언어/3.JavaScript/5. DOM과 이벤트/1. DOM이란.md",
     "5. 프로그래밍 언어/3.JavaScript/4. 고급 문법/5. 비동기 프로그래밍.md",
     "5. 프로그래밍 언어/3.JavaScript/4. 고급 문법/4. 클래스.md",
-    "5. 프로그래밍 언어/3.JavaScript/4. 고급 문법/3. 프로토타입.md",
-    "5. 프로그래밍 언어/3.JavaScript/4. 고급 문법/2. this.md",
     "5. 프로그래밍 언어/3.JavaScript/6. 예제와 실습",
     "5. 프로그래밍 언어/3.JavaScript/5. DOM과 이벤트",
     "5. 프로그래밍 언어/3.JavaScript/4. 고급 문법",
