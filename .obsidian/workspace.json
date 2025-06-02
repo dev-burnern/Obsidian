@@ -183,12 +183,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +206,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "2594d65c8d868d79",
+  "active": "fc4f79f0a0eafe7e",
   "lastOpenFiles": [
+    "3. 자격증 공부/리눅스 마스터 2급 정리.md",
     "9999.이미지 등/Pasted image 20250602124814.png",
     "5. 프로그래밍 언어/1. HTML5/5. 폼/6. label.md",
-    "3. 자격증 공부/리눅스 마스터 2급 정리.md",
     "5. 프로그래밍 언어/1. HTML5/HTML5_구조.md",
     "5. 프로그래밍 언어/1. HTML5/0. 학습가이드.md",
     "5. 프로그래밍 언어/1. HTML5/5. 폼/5. button.md",
@@ -254,7 +253,6 @@
     "이미지 등/Pasted image 20250403152639.png",
     "이미지 등/Pasted image 20250403152609.png",
     "이미지 등/Pasted image 20250401210525.png",
-    "이미지 등/Pasted image 20250330195530.png",
     "무제.canvas",
     "무제 1.canvas"
   ]
