@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기말고사 정리/기말고사 대비를 위한 중간고사 핵심 지식 정리.md",
+                "file": "기말고사 정리/SQL/7. 서브쿼리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "기말고사 대비를 위한 중간고사 핵심 지식 정리"
+              "title": "7. 서브쿼리"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "2594d65c8d868d79",
   "lastOpenFiles": [
-    "기말고사 정리/sql-database-exam-guide.md",
     "기말고사 정리/기말고사 대비를 위한 중간고사 핵심 지식 정리.md",
+    "기말고사 정리/sql-database-exam-guide.md",
     "기말고사 정리/DB 기말 예상 문제.md",
     "기말고사 정리/운영체제_컴퓨터구조_문제_해설.md",
     "기말고사 정리/SQL/7. 서브쿼리.md",
