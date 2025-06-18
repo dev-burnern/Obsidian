@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기말고사 정리/자바스크립트 문제 1.md",
+                "file": "기말고사 정리/시험 정리/시험 대비 예상 문제 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트 문제 1"
+              "title": "시험 대비 예상 문제 1"
             }
           }
         ]
@@ -206,10 +206,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "60a81592ec131b22",
+  "active": "2594d65c8d868d79",
   "lastOpenFiles": [
-    "기말고사 정리/시험 정리/무제.md",
     "기말고사 정리/자바스크립트 문제 1.md",
+    "기말고사 정리/시험 정리/시험 대비 예상 문제 1.md",
     "기말고사 정리/자바스크립트 문제 2.md",
     "기말고사 정리/SQL/7. 서브쿼리.md",
     "기말고사 정리/시험 정리/09_기타_원칙_및_코딩_스타일.md",
