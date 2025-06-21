@@ -79,7 +79,7 @@
   "golangArgs": "run",
   "golangFileExtension": "go",
   "goInject": "",
-  "javaPath": "java",
+  "javaPath": "C:/Program Files/Common Files/Oracle/Java/javapath/java.exe",
   "javaArgs": "-ea",
   "javaFileExtension": "java",
   "javaInject": "",
